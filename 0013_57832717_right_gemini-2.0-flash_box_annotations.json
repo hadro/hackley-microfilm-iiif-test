@@ -1,0 +1,381 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Penn — Pennsylvania Ave., 1600 blk. — BALTIMORE, MARYLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1308,351,388,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "York — Madison at Dolphin — BALTIMORE, MARYLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,379,290,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Majestic — McCulloh at MeMechen — BALTIMORE, MARYLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,404,372,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith's — Druid Hill at Paca ? — BALTIMORE, MARYLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,430,308,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dru Moore Inn — 839 N. Fremont Ave. — BALTIMORE, MARYLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,454,416,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stokes — 1624 Madison — BALTIMORE, MARYLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,479,238,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Banks — 1217 Madison — BALTIMORE, MARYLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,503,231,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Inquire Y. M. C. A. and Y. W. C. A. — BALTIMORE, MARYLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1308,555,411,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Murphy's Hotel — 183 W. All Saints St. — FREDERICK, MARYLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,641,425,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Wm. W. Roberts — 316 W. South Street — FREDERICK, MARYLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,691,798,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Esther Wise Grinage — 22 W. All Saints — FREDERICK, MARYLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1308,709,802,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. John Makel — 119 E. Fifth Street — FREDERICK, MARYLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,739,835,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mamie Lee Parker — 110 Delaware Ave — SALISBURY, MARYLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1308,824,836,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. May Chisum — 211 Broad St — SALISBURY, MARYLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,853,833,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harriett Tubman House — 25 Holyoke St — BOSTON, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,1002,801,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ancrum School Dormitories — 74 W. Rutland Sq — BOSTON, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,1026,835,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. Alice Taylor — 192 W. Springfield St — BOSTON, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,1052,801,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ford — 209 W. Springfield St — BOSTON, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1309,1075,801,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Brown — 12 Waumbeck St., Roxbury — BOSTON, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1310,1101,801,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hubert Cottage — (Summer months) — GAY HEAD, MASSACHUSETTS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1310,1208,383,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Not-o-way Hotel — (Summer months) — GAY HEAD, MASSACHUSETTS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1313,1232,392,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Berkshire (W) — Bank and Sumner Sts. — NORTH ADAMS, MASSACHUSETTS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1310,1331,430,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mansion House (W) — State St. — NORTH ADAMS, MASSACHUSETTS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1311,1355,337,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Fanny Adams — 32 Washington Ave — NORTH ADAMS, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1311,1404,577,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sherrill Cottage — (Summer months) — OAK BLUFFS, MASSACHUSETTS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1313,1503,387,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. John Marshall — 124 Danforth Ave — PITTSFIELD, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1311,1594,838,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bettie Jasper — 270 West St — PITTSFIELD, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1311,1621,804,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Taylor Dillard — 109 Linden St — PITTSFIELD, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1311,1645,802,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Blanche Jones — 50 W. Union St — PITTSFIELD, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1310,1667,804,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Carolyn Cummings — 47 N. John St — PITTSFIELD, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1311,1697,803,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Luara Grant — 53 King St — PITTSFIELD, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1311,1721,803,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Taylor — 11 Oak St — PLYMOUTH, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1311,1645,802,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. A. Gray — 47 Davis St — PLYMOUTH, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1314,1824,835,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Inquire A. M. E. Parsonage — 6 Sever St. — PLYMOUTH, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=1311,1853,456,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json/entry/33"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_right_gemini-2.0-flash_box_annotations.json"
+}

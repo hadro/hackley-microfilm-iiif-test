@@ -1,0 +1,315 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ed Andrews — 69 N. Cotton Street — ANDALUSIA, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,588,1605,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Fraternal Hotel — 1619½ N. Fourth Ave., Mrs. R. J. Brown, Manager. — BIRMINGHAM, ALABAMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=128,668,1503,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rush Hotel — 316½ N. 18th Street. — BIRMINGHAM, ALABAMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=128,698,729,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Palm Leaf Hotel — 318½ N. 18th Street. — BIRMINGHAM, ALABAMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=128,723,854,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dunbar Hotel — 316½ N. 17th Street. — BIRMINGHAM, ALABAMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,745,770,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. L Hunter — 402 Wilson Ave. W — DECATUR, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,823,1672,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Fannie Hayes — 207 W. Church Street — DECATUR, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=123,850,1590,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith Hotel — 902 Garden Ave — GADSDEN, ALABAMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=128,935,659,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. C. Oliver — 1335 4th Ave — GADSDEN, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=123,979,1674,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jeanie Simons — 233 N\t6th Street — GADSDEN, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1006,1675,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Annie Shepherd — 1324 4th Ave — GADSDEN, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1031,1672,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sallie Neal — 1317 4th Ave — GADSDEN, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1055,1670,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joe Dondal — GENEVA, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1136,1670,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Susana Thrasher — GENEVA, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1164,1670,28",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Susie M. Sharp — GENEVA, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1190,1670,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sallie Edwards — GENEVA, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1213,1670,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Elizabeth Reed — 950 Lyons Street — MOBILE, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=123,1292,1674,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ella Brown — 359 Hospital Street — MOBILE, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1318,1670,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emma Jordan — 256 N. Dearborn Street — MOBILE, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=128,1345,1667,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. G. B. Sylvester — 355 Cuba Street — MOBILE, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1367,1670,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "McClain Hotel — 19th Street. — SHEFFIELD, ALABAMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=128,1452,604,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ira Hawkins — So. Atlantic Ave — SHEFFIELD, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1494,1672,41",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. S. A. Benton — 113 East Fair View Street — TROY, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=128,1580,1597,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jena Thomas — E. Academy Street — TROY, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=120,1605,1673,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. W. Baugh — 2526 12th Street — TUSCALOOSO, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=123,1687,1670,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. G. W. Clopton — 1516 25th Ave — TUSCALOOSO, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1712,1670,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. A. Barnes — 419 30th Ave — TUSCALOOSO, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=125,1738,1595,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Robinson — 11th Street — TUSCALOOSO, ALABAMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832709/full/!760,760/0/default.jpg#xywh=123,1762,1670,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json/entry/27"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0005_57832709_right_gemini-2.0-flash_box_annotations.json"
+}

@@ -1,0 +1,304 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marvin Hughitt (w) — HURON, SOUTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=671,375,458,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Royal (w) — HURON, SOUTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=674,401,238,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Edw. Cooper — 917 N. Main — MITCHELL, SOUTH DAKOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=667,576,1689,50",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Charles (w) — Capitol Ave. — PIERRE, SOUTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=667,700,678,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lock Hotel (w) — Dakota Ave. — PIERRE, SOUTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=669,727,671,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brown's Rooming House (w) — 324 Pleasant Drive — PIERRE, SOUTH DAKOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=667,752,1109,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Service Center — 415 So. 1st Ave. — SIOUX FALLS, SOUTH DAKOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=664,848,703,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. Moxley — 915 N. Main — SIOUX FALLS, SOUTH DAKOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=662,874,1679,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Booker — 8th and Dakota — SIOUX FALLS, SOUTH DAKOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=664,899,1672,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Peoples Hotel — 535 Franklin St. — CLARKSVILLE, TENNESSEE — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=659,1056,713,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Homer Northington — 717 Main St — LEXINGTON, TENNESSEE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=654,1120,1685,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. F. Thompkins — 411 Poston St — LEXINGTON, TENNESSEE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=657,1148,1682,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles Timberlake — Holly St — MURFREESBORO, TENNESSEE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1247,1684,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Walter Kiser — Holly St — MURFREESBORO, TENNESSEE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=654,1267,1682,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Brooks — Off Jackson St — MURFREESBORO, TENNESSEE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=657,1296,1675,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Roxie Moore — Cor. University and State Streets — AUSTIN, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1393,1682,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Fannie Hoover — 439 E. State Street — AUSTIN, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1419,1677,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. S. Lovingood — 803 E. 13th — AUSTIN, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1557,1675,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. W. Frazier — 810 E. 13th — AUSTIN, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1579,1668,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. W. Duncan — 1214 E. 7th — AUSTIN, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=650,1608,1670,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. M. Tears — 1203 E. 12th (Men) — AUSTIN, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1633,1607,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sparks Hotel — 108½ N. 10th Street — CORSICANA, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=647,1728,753,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rev. Conner — E. 4th Ave — CORSICANA, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=647,1795,1603,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. J. Chestnut — 616 E. 5th Ave — CORSICANA, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=647,1822,1605,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert Lee — 712 E. 4th — CORSICANA, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=650,1846,1600,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Community Center — E. 6th Ave — CORSICANA, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=647,1872,698,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Wm. Tolson — 913 N. Main — CORSICANA, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=667,602,1710,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json"
+}

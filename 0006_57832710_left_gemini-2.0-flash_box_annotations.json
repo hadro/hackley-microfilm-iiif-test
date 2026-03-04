@@ -1,0 +1,315 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mr. and Mrs. John Hill — 16th and Pine Street — ARKADELPHIA, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=705,332,1357,42",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Betty Dedman — W. Caddo Street — ARKADELPHIA, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=705,372,1687,58",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Louisa Cooper — W. Pine Street — ARKADELPHIA, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=710,403,1682,49",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paul Anderson — W. Caddo Street — ARKADELPHIA, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=712,426,1636,55",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sula Dearmon — 5th and Oak Streets — ARKADELPHIA, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=719,556,1682,49",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Pearl Watkins — St. Louis and Lion Streets — ARKADELPHIA, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=719,581,1682,53",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Main — S. Main Street — BATESVILLE, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=729,712,611,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pastime Cafe — S. Main Street — BATESVILLE, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=729,721,1675,47",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Green Hotel — S. Hill Street — CAMDEN, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=739,852,601,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewster Hotel — E. and B. Streets — EL DORADO, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=741,875,734,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. W. Moore — 5th and Lincoln Ave — EL DORADO, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=739,910,1679,49",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. E. L. Dunning — 7th and Columbia Ave — EL DORADO, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=744,935,1607,49",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sallie Meek — 5th and Lincoln Ave — EL DORADO, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=744,963,1604,44",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mebbs Hotel — 9 N. Willow Street — FAYETTEVILLE, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=751,1088,731,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Susie Manuel — 313 Olive Street — FAYETTEVILLE, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=756,1126,1677,46",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Naomi Smith — 259 E. Center Street — FAYETTEVILLE, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=756,1150,1679,47",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hattie Ullery — 719 N. 9th Street — FORT SMITH, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=758,1267,1607,45",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Millie Stratford — 1208 N. 9th Street — FORT SMITH, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=758,1294,1675,39",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. G. W. Prosser — 306 Beech Street — HELENA, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=763,1427,1610,41",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. B. W. Crump — 103 Briscoe Street — HELENA, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=765,1454,1608,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. M. Munley — 423 Columbia Ave — HELENA, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=763,1478,1677,39",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jennie Brooks — 728 St. Mary Street — HELENA, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=768,1503,1674,40",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. O. U. Hotel — 511 Malvern Ave. — HOT SPRINGS, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=772,1632,758,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pythian Hotel — Malvern A. — HOT SPRINGS, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=772,1658,626,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crittenden Hotel — 314 Cottage Street — HOT SPRINGS, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=772,1681,797,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. J. H. Barabin — 717 Pleasant Street — HOT SPRINGS, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=775,1738,1675,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. W. Rife — 347½ Malvern Ave — HOT SPRINGS, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=770,1764,1677,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Reed House — 115 Cottage Street — HOT SPRINGS, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=772,1789,1675,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_left_gemini-2.0-flash_box_annotations.json"
+}

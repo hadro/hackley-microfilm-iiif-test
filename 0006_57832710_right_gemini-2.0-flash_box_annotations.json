@@ -1,0 +1,282 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Claridy House — 410 Cottage Street — HOT SPRINGS, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1284,209,803,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Beatrice Guthrie — 138 Gulpha Street — HOT SPRINGS, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1285,235,835,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Nora Fletcher — 416 Pleasant Street — HOT SPRINGS, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1284,259,836,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Henrietta Greyer — 234 Garden Street — HOT SPRINGS, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1284,283,836,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. C. Wilson — 232 Garden Street — HOT SPRINGS, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1284,308,836,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. H. H. Stilson — 735 Pleasant Street — HOT SPRINGS, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1285,332,835,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. E. Lawson — 706Pleasant, Street — HOT SPRINGS, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1284,357,836,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Marquette — 5224 W. 9th St. — LITTLE ROCK, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1283,492,380,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Graysonia — 809 Gaines St. — LITTLE ROCK, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1285,521,355,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Vincent — 815 W. 9th St. — LITTLE ROCK, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1285,545,332,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sam Green — 1214 W. 19th St — LITTLE ROCK, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1286,594,800,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. H. C. Mason — 3000 State St — LITTLE ROCK, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1285,621,801,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. F. F. Boone — 1864 Pulaski St — LITTLE ROCK, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1284,645,802,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Tempa Thomas — 1901 High St — LITTLE ROCK, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1283,671,803,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marietta Hotel — 3rd and Louisiana — PINE BLUFF, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1286,801,385,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southern Hotel — Barraque and State — PINE BLUFF, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1287,830,395,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith's Hotel — Alabama and Barraque — PINE BLUFF, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1287,858,418,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. M. J. Hollis — 1108 W. 2nd Ave — PINE BLUFF, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1289,918,798,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. C. C. Swayze — 1703 W. 2nd Ave — PINE BLUFF, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1287,945,833,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Julia Whitesides — 14th and Tennessee — PINE BLUFF, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1285,967,802,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. K. L. Bell — 1111 W. 2nd Ave — PINE BLUFF, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1285,993,802,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. E. Latimore — 318 S. Houston Ave — RUSSELLVILLE, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1291,1109,833,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Jackson — Herman Street — RUSSELLVILLE, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1287,1135,837,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Conner's Hotel — W. Broad Street — TEXARKANA, ARKANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1291,1269,415,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "G. C. Mackey — 102 E. 9th Street — TEXARKANA, ARKANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832710/full/!760,760/0/default.jpg#xywh=1289,1334,836,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0006_57832710_right_gemini-2.0-flash_box_annotations.json"
+}

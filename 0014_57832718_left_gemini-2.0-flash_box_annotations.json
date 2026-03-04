@@ -1,0 +1,359 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kimball (W) — Bridge and Chestnut — SPRINGFIELD, MASSACHUSETTS — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=308,302,389,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clinton (W) — 1976 Main — SPRINGFIELD, MASSACHUSETTS — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=308,326,276,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Coolidge (W) — 2787 Main — SPRINGFIELD, MASSACHUSETTS — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=308,351,288,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bridgway (W) — 50 Broadway — SPRINGFIELD, MASSACHUSETTS — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=308,377,321,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. John's Parish Home — 643 Union — SPRINGFIELD, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=307,443,803,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ivy C. Shephard — 171 King St — SPRINGFIELD, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=309,468,801,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. A. Gillum — 58 Seventh St — SPRINGFIELD, MASSACHUSETTS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=309,493,800,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Belmore (W) — Weir Street — TAUNTON, MASSACHUSETTS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=310,606,298,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Majestic (W) — High Street — TAUNTON, MASSACHUSETTS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=310,632,301,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hazelton (W) — Cohannet Street — TAUNTON, MASSACHUSETTS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=312,657,358,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "American — 123 W. Washington Street — ANN ARBOR, MICHIGAN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=314,839,409,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allenel — 126 E. Huron — ANN ARBOR, MICHIGAN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=314,864,250,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. M. Dickson — 144 Hill Street — ANN ARBOR, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=314,930,693,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dunbar Civic Center — 1009 Catherine St.reet — ANN ARBOR, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=314,955,490,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lillian Dennis — 10 Oak St — BATTLE CREEK, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=314,1069,804,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ethel Brown — 76 Walters Ave — BATTLE CREEK, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=314,1096,804,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Payton Grayson — 22 Willow — BATTLE CREEK, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=314,1117,804,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Chas S. Walker — 709 W. Van Buren — BATTLE CREEK, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=316,1143,802,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Biltmore — 1926 St. Antoine — DETROIT, MICHIGAN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=318,1286,296,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dunbar — 550 E. Adams Ave. — DETROIT, MICHIGAN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=314,955,490,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crisis — 48 Clinton Ave. — DETROIT, MICHIGAN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=316,1334,251,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pierce — 537 Mullet — DETROIT, MICHIGAN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=318,1361,204,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tanzy — 2476 St. Antoine — DETROIT, MICHIGAN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=316,1386,269,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Russell House — 615 E. Adams Ave. — DETROIT, MICHIGAN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=316,1411,384,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Carolyn Manor — 2451 St. Aubin — DETROIT, MICHIGAN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=316,1436,347,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fox — Catherine and Hastings — DETROIT, MICHIGAN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=318,1462,322,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. T. I. Wheeler — 1512 Liberty Street — FLINT, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=319,1574,800,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Fletcher Smith — 1612 Liberty St — FLINT, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=318,1599,800,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Thomas Kelley — 407 Wellington Ave — FLINT, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=319,1622,801,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Frank Taylor — 1615 Clifford St — FLINT, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=318,1646,800,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Nina Jones — 222 E. Franklin — JACKSON, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=319,1772,836,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sarah Collins — 1211 Woodbridge — JACKSON, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=319,1793,836,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json/entry/31"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_left_gemini-2.0-flash_box_annotations.json"
+}

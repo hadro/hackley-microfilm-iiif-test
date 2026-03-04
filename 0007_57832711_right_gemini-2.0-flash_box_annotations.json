@@ -1,0 +1,348 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Neckie Hamilton — 717 N. Corona St — COLORADO SPRINGS, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1269,419,797,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Tom Wallace — 314 E. Costilla St — COLORADO SPRINGS, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1268,443,797,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. I. E. Moore — 738 N. Spruce Street — COLORADO SPRINGS, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1266,470,833,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. William Barnett — 410 S. Wahsatch Ave — COLORADO SPRINGS, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1266,493,833,39",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ethel Calloway — 329 S. Weber St — COLORADO SPRINGS, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1266,519,799,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. C. French — 831 S. Weber St — COLORADO SPRINGS, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1266,543,831,39",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. George Roberts — 418 E. Cucharras St — COLORADO SPRINGS, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1266,567,829,39",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rossonian — 2650 Welton Street — DENVER, COLORADO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1264,686,329,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Herndon — 2716 Welton Street — DENVER, COLORADO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1264,712,313,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 2800 Glenarm Street — DENVER, COLORADO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1264,735,370,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 2460 Welton Street — DENVER, COLORADO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1264,762,359,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. M. Flora Stell — 2427 Ogden Street, modern conveniences — DENVER, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1262,825,831,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jennie McClure — 2849 Lafayette Street — DENVER, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1258,850,834,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Wm. Graham — 2544 Emerson Street — DENVER, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1258,876,829,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. B. Anderson — 2421 Ogden Street — DENVER, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1258,899,801,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. L. Fisher — 2356 Humboldt Street — DENVER, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1258,924,799,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Morton — 235 Ouray Ave — GRAND JUNCTION, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1254,1060,832,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. Alexander — 106 E. 12th Street — GREELEY, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1254,1177,832,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rev. W. H. Mance — 104 E. 12th Street — GREELEY, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1254,1200,832,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ralph Mitchell — 322 W. First Street — LA JUNTA, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1249,1340,831,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Moore — 301 Lewis Ave — LA JUNTA, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1249,1366,830,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hattie Tittsworth — 325 Maple Ave — LA JUNTA, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1245,1390,833,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Perry — 231 S. Victoria Street — PUEBLO, COLORADO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1245,1505,372,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Protho House — 188 Central Main Street — PUEBLO, COLORADO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1245,1532,429,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — Steel Works — PUEBLO, COLORADO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1264,735,370,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Thomas Protho — 918 E. Evans Ave — PUEBLO, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1243,1621,797,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chas. Forehand — 1003 Spruce Street — PUEBLO, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1242,1647,797,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Wm. Reed — 125 E. First Street — PUEBLO, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1243,1671,797,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Roneoak — 121 E. Northern Ave — PUEBLO, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1242,1695,797,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hattie Daniels — 305 Church Street — TRINIDAD, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1242,1837,794,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. Brooks — 114 W. 3rd Street — TRINIDAD, COLORADO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=1242,1863,795,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json/entry/30"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_right_gemini-2.0-flash_box_annotations.json"
+}

@@ -1,0 +1,326 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Helen Kelley Smith — 27 Bruce St — PORT JERVIS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,316,831,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lillian Robinson — 21 Bruce St — PORT JERVIS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,343,833,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert Pendleton — 26 Bruce St — PORT JERVIS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,366,831,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Scott — 28 Bruce St — PORT JERVIS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,390,831,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Robert Sullivan — 14 Gregory Ave — POUGHKEEPSIE, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1279,505,800,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sadie Osterholt — 16 Crannell St — POUGHKEEPSIE, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,533,799,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sadie Le Fever — 217 Union — POUGHKEEPSIE, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,560,798,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. G. W. Hayes — 93 N. Hamilton — POUGHKEEPSIE, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,584,799,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester (W) — Main St., W. — ROCHESTER, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,699,323,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gibson (W) — 461 Clarissa St. — ROCHESTER, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,727,323,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A.—(Residence) — 192 Clarissa St. — ROCHESTER, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,751,471,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. (W) — 57 S. Washington — ROCHESTER, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1280,776,408,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Geo. W. Burks — 221 Columbia Ave. — ROCHESTER, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1283,839,833,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. E. Latimer — 191 Clarissa St — ROCHESTER, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1284,869,801,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Wagstaff — 217 Spring Street — ROCHESTER, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1284,894,801,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hampton Hotel (W) — 10 Edison Ave. — SCHENECTADY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1284,1007,410,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saginaw Hotel (W) — Lower Broadway — SCHENECTADY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1285,1034,421,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Rosa Rhinehart — 125 S. Church St — SCHENECTADY, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1285,1100,836,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. G. D. Thomas — 123 S. Church St — SCHENECTADY, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1286,1125,834,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Samuel Kearney — 357 Vedder Ave — SCHENECTADY, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1285,1152,834,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. L. Claiborne — 1808 Campbell Ave — SCHENECTADY, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1287,1177,798,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Savoy Hotel — 210 Almond St. — SYRACUSE, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1287,1291,316,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Broad Street Inn — 415 Broad St — UTICA, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1290,1403,826,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Wm. M. Wheeler — 130 Washington St., 2nd floor — UTICA, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1291,1426,638,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. S. Burns — 314 Broad St — UTICA, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1289,1460,517,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Edward F. Thomas — 123 Union Street — WATERTOWN, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1287,1570,833,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "V. H. Brown — 502 Binase Street — WATERTOWN, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1287,1597,799,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Glen E. Depuy — 710 Morrison Street — WATERTOWN, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1287,1623,798,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. M. E. Zion parsonage — 715 Morrison Street — WATERTOWN, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=1287,1647,602,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json/entry/28"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_right_gemini-2.0-flash_box_annotations.json"
+}

@@ -1,0 +1,414 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Raleigh (W) — 130 State Street — ALBANY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=380,331,339,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wellington (W) — 136 State Street — ALBANY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=380,356,371,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Aaron J. Oliver — 42 Spring Street — ALBANY, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=381,420,837,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. M. C. Williams — 18 Ten Broeck Place — ALBANY, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=380,448,803,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ira Dorsey — 25 Second Street — ALBANY, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=379,473,804,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Adams — 216 Hamilton Street — ALBANY, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=383,496,802,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Snowdale Farm — BREWSTER, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=381,594,468,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stattler — Niagara St. — BUFFALO, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=385,711,224,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vendome — 177 Clinton t — BUFFALO, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=385,738,244,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Montgomery — 486 Michigan Ave. — BUFFALO, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=385,762,355,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — Michigan Ave. — BUFFALO, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=385,787,314,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. F. Washington — 172 Clinton — BUFFALO, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=384,842,805,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Chase — 192 Clinton — BUFFALO, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=385,874,805,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. Campbell — 22 Milnor — BUFFALO, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=384,896,805,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. John A. Wilson — 307 E. Clinton St — ELMIRA, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=384,991,832,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. L. Pierce — 654 Dickinson St — ELMIRA, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=384,1017,831,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. George Brooks — 516 High St — ELMIRA, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=384,1048,803,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Everett (W) — JAMESTOWN, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=387,1150,140,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. I. W. Herald — 51 W. 10th St — JAMESTOWN, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=387,1207,832,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. Henrick — 70 W. 13th St — JAMESTOWN, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=390,1236,801,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. M. Brown — 108 W. 11th St — JAMESTOWN, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=387,1256,803,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Carrie Majors — 906 Jefferson St — JAMESTOWN, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=389,1283,830,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Olga — 695 Lenox Ave. — NEW YORK CITY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=391,1414,314,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adrienne Hotel — 2053 Seventh Ave. — NEW YORK CITY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=391,1440,380,18",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Rockland — 3-13 W. 136th Street — NEW YORK CITY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=390,1458,414,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grampion Hotel — 182 St. Nicholas Ave. — NEW YORK CITY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=389,1482,429,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lincoln Rooms — 301 W. 134th Street — NEW YORK CITY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=381,1508,414,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 181 W. 135th Street — NEW YORK CITY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=385,787,314,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 175 W. 137th Street — NEW YORK CITY, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=390,1557,503,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*The Parker House — 627 Erie Ave. \"The Golden Rule\" — NIAGARA FALLS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=393,1652,804,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Charles A. Brown — 443 Main Street — NIAGARA FALLS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=393,1677,804,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*The Johnson Cottage — 421 Main Street — NIAGARA FALLS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=395,1704,802,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chef. Wm. C. Martin — 609 Erie Ave. — NIAGARA FALLS, NEW YORK — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=392,1730,492,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Scott — 1015 Niagara Street — NIAGARA FALLS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=393,1752,804,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. McDonald — 445 First Street — NIAGARA FALLS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=393,1777,803,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Fife — 635 Erie Ave — NIAGARA FALLS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=393,1801,804,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James Steward — Erie House — NIAGARA FALLS, NEW YORK — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832722/full/!760,760/0/default.jpg#xywh=396,1831,801,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json/entry/36"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0018_57832722_left_gemini-2.0-flash_box_annotations.json"
+}

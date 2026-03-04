@@ -1,0 +1,414 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bailey's Hotel — 1533 Center Ave. — PITTSBURGH, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=401,274,355,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Park Hotel — 2215 Wylie Ave. — PITTSBURGH, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=401,298,322,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sutton's Hotel — 520 Wylie Ave. — PITTSBURGH, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=401,326,338,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 2621 Center Ave. — PITTSBURGH, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=401,353,340,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 2044 Center Ave. — PITTSBURGH, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=402,374,339,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Robt. A. Lewis — 2600 Wylie Ave — PITTSBURGH, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,422,773,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Holbrook — 2325 Hallett Street — PITTSBURGH, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,448,805,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. I. Williams — 5518 Claybourne Street — PITTSBURGH, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,474,804,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Penn (W) — 6th and Penn — READING, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=401,574,358,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. William Isaacs — 131 Green — READING, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,637,826,28",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Claude Dawson — 441 Buttonwood — READING, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,663,811,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sarah Terry — 520 Buttonwood — READING, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,686,808,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Robert Bowen — 522 Buttonwood — READING, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,709,808,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Elvira R. King — 1312 Linden Street — SCRANTON, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=401,806,826,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Cassie M. Jenkins — 424 Moir Court — SCRANTON, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,830,829,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. James Taylor — 1415 Penn Ave — SCRANTON, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,857,829,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. W. H. Gordon — 646 Walnut Street — WILLIAMSPORT, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=401,977,809,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Rosa Lightfoot — 603 Walnut Street — WILLIAMSPORT, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=401,1004,807,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ellen T. Johnson — 621 Spruce Street — WILLIAMSPORT, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,1029,807,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Howard — Beaver and Princess Streets — YORK, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=401,1127,470,25",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ethel Armstrong — 116 E. King Street — YORK, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,1177,832,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ida M. Grayson — 32 W. Princess Street — YORK, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,1201,832,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Miller — 307 E. King Street — YORK, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,1226,832,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Samuel Green — 103 S. Duke Street — YORK, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,1251,831,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Glover Hotel — Brindley and Center Sts. — NEWPORT, RHODE ISLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=402,1405,435,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*F. Merryweather Jackson — 28 Hall Ave. Modern — NEWPORT, RHODE ISLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,1449,828,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Robert Craddle — 165 Spring St — NEWPORT, RHODE ISLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=402,1480,801,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lillian Adams — 1164 Broadway — NEWPORT, RHODE ISLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,1502,805,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. F. Burton — 7 De Blois St — NEWPORT, RHODE ISLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,1527,805,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Levi Jackson — 35 Bath Road — NEWPORT, RHODE ISLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=402,1552,800,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Wm. Berry — 42 Division St — NEWPORT, RHODE ISLAND — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=398,1576,800,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Biltmore, Narragansett and Crown Hotels (W) — PROVIDENCE, RHODE ISLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=392,1674,646,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Central Hotel (W) — Canal St., rear P. O. — PROVIDENCE, RHODE ISLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=402,1704,457,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*The Crowder House — 155 Benefit St — PROVIDENCE, RHODE ISLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=402,1748,804,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hill Top House — 72 Meeting St — PROVIDENCE, RHODE ISLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=399,1776,829,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Bertha House — 54 Meeting St — PROVIDENCE, RHODE ISLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=401,1803,826,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Harris House — 56 Benefit St — PROVIDENCE, RHODE ISLAND — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=402,1827,800,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json/entry/36"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_left_gemini-2.0-flash_box_annotations.json"
+}

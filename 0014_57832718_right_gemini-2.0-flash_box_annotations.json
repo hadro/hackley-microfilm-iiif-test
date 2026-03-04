@@ -1,0 +1,249 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Modelle Gray — 1216 W. St. Joe St — LANSING, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1286,321,798,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lewis — 816 S. Butler St — LANSING, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1286,345,799,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Cook — 1220 W. St. Joe St — LANSING, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1286,369,800,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. B. Gains — 1406 Albert St — LANSING, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1286,393,800,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. C. Merrick — 65 E. Muskegon Ave — MUSKEGON, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1287,511,799,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. A. Swift — 472 W. Munroe — MUSKEGON, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1287,537,800,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rev. J. L. Fowler — 937 McIllwraigh St., Muskegon Hts — MUSKEGON, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1289,556,833,41",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Malinda Gant — 312 S. Baum St — SAGINAW, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1290,673,834,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Judd Curtley — 439 N. Third St — SAGINAW, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1291,699,831,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Pearl Burnette — 406 Emerson St — SAGINAW, MICHIGAN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1289,724,798,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Hotel (W) — 322 W. Superior Street — DULUTH, MINNESOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1291,919,500,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Chas. Colby — 616 E. 4th Street — DULUTH, MINNESOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1291,979,834,40",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Curtis Hotel (W) — 4th Ave. So. and 10th St. — MINNEAPOLIS, MINNESOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1295,1084,498,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Radisson (W) — 7th and Nicollet — MINNEAPOLIS, MINNESOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1296,1115,356,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Andrews (W) — 4th and Hennepin — MINNEAPOLIS, MINNESOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1297,1139,369,25",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phyllis Wheatley House — 809 Aldrich N. — MINNEAPOLIS, MINNESOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1298,1200,439,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Or locate homes thru The Urban League — 424 2nd Ave. So. — MINNEAPOLIS, MINNESOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1298,1221,641,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Cloud (W) — 28 6th Ave. So. — ST. CLOUD, MINNESOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1301,1343,351,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Merchants (W) — 724 2nd St. N. — ST. CLOUD, MINNESOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1299,1368,353,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ryan Hotel (W) — 6th and Roberts — ST. PAUL, MINNESOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1301,1466,382,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Paul (W) — 5th and St. Peter — ST. PAUL, MINNESOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1299,1488,372,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Locate homes thru The Urban League — 598 W. Central Ave. — ST. PAUL, MINNESOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832718/full/!760,760/0/default.jpg#xywh=1298,1221,641,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0014_57832718_right_gemini-2.0-flash_box_annotations.json"
+}

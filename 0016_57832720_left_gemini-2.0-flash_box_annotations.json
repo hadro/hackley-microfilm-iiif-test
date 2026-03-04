@@ -1,0 +1,381 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Julia Osborne — Route 3 — LEBANON, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=378,335,613,18",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ann Wilson — Route 3 — LEBANON, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=379,360,802,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Missouri Warfield — Route 3 — LEBANON, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=378,384,800,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Eliza Turner — Route 3 — LEBANON, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=378,410,834,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Fannie Davis — 212 N. Ault St — MOBERLY, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=377,525,835,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Fannie Gunn — 529 Winchester St — MOBERLY, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=377,549,835,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ralph Bass — 517 Winchester St — MOBERLY, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=377,575,833,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Walter Johnson — N. 5th St., 400 blk — MOBERLY, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=377,594,835,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. L. Davis — 426 Short Oak St — POPLAR BLUFF, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=373,714,836,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lillie Powell — 425 Short Oak St — POPLAR BLUFF, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=377,739,801,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. William Brooks — 1800 N. Alice St — POPLAR BLUFF, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=375,764,800,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. D. C. Freeman — 720 Margrett St — POPLAR BLUFF, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=377,789,798,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Eva McCauley — 312 Short Fifth St — POPLAR BLUFF, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=373,813,802,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Thos. L. Moore — 505 W. Cooper — SEDALIA, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,927,836,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Delia Reed — 513 W. Cooper — SEDALIA, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,951,836,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. B. Williams — 317 E. Johnson — SEDALIA, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,978,836,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Chas. Walker — 217 E. Morgan — SEDALIA, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,1001,802,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Walter Smith — 717 Washington St — SPRINGFIELD, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,1118,802,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. U. G. Hardrick — 238 Dollison Ave — SPRINGFIELD, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,1143,802,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Smith — 710 Washington St — SPRINGFIELD, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=371,1166,835,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Haywood — 734 Washington St — SPRINGFIELD, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,1189,801,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Carterette Apartment — 2344 Dollison Ave — SPRINGFIELD, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,1218,803,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. T. J. Coleman — 1713 Angelique St — ST. JOSEPH, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,1333,836,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ida Scott — 2203 Sylvanie St — ST. JOSEPH, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,1356,800,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. H. K. Williams — 202 E. Nebraska St — ST. JOSEPH, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=369,1383,803,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 110 S. 13th St. — ST. JOSEPH, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,1407,421,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Poro College — Pendelton and St. Ferdinand Sts. — ST. LOUIS, MISSOURI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=373,1522,515,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Booker T. Washington — Jefferson and Pine — ST. LOUIS, MISSOURI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=373,1546,461,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grand Central — Jefferson and Pine — ST. LOUIS, MISSOURI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=373,1571,379,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Palmer Hotel — 611 N. Jefferson Ave. — ST. LOUIS, MISSOURI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,1594,397,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "West End Hotel — W. Belle and Vandeventer — ST. LOUIS, MISSOURI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=373,1622,485,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dunbar Hotel — 2005 Market St. — ST. LOUIS, MISSOURI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=372,1646,343,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dubois Hotel — 4323 Enright Ave. — ST. LOUIS, MISSOURI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=373,1671,355,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — Ewing and Pine — ST. LOUIS, MISSOURI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=373,1692,523,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json/entry/33"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_left_gemini-2.0-flash_box_annotations.json"
+}

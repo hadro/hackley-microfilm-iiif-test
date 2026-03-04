@@ -1,0 +1,282 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Foot's Hotel — Railroad Ave. — NEW ALBANY, MISSISSIPPI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1258,314,299,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. Drewery — Church St — NEW ALBANY, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1258,373,832,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Patt Knox — Cleveland St — NEW ALBANY, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1260,406,831,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. Morganfield — Cleveland St — NEW ALBANY, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1258,425,834,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bettie V. Foote — 913 First North — VICKSBURG, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1263,550,830,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Caldwell House — Water and Broadway — YAZOO CITY, MISSISSIPPI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1264,651,411,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. K. B. Jamison — 301 Calhoun Ave — YAZOO CITY, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1267,712,796,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. A. Wright — 234 S. Yazoo — YAZOO CITY, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1267,741,831,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. J. Walker — 321 S. Monroe — YAZOO CITY, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1267,765,832,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hattie Lattimore — Washington St., on Highway — YAZOO CITY, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1266,783,832,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "George Williams — 406 S. Frederick Street — CAPE GIRARDEAU, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1263,972,830,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "William Martin — 38 N. Hanover Street — CAPE GIRARDEAU, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1263,996,832,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James Randol — 422 North Street — CAPE GIRARDEAU, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1264,1024,831,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Melvina Webb — S. Fulton Street — CARTHAGE, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1260,1119,797,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Alice Peal — E. Third Street — CARTHAGE, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1262,1144,831,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Albert Gibson — Bois De Arc and 5th Street — CARTHAGE, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1261,1170,832,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Brooksey Smith — 608 Park Ave — COLUMBIA, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1267,1266,832,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Wm. Harvey — 417 N. 3d — COLUMBIA, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1267,1292,831,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Williams Hotel — 308 Pennsylvania St. — JOPLIN, MISSOURI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1268,1389,404,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Lindsay — 1702 Pennsylvania St — JOPLIN, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1264,1449,831,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. G. Tutt — 812 West \"A\" St — JOPLIN, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1267,1479,830,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Theo Siebert — 1412 Furnace St — JOPLIN, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1266,1505,827,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Katie F. Bell — 2146 E. 24th Street — KANSAS CITY, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1268,1687,828,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Irene Fairfax — 1914 E. 24th Street — KANSAS CITY, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1266,1712,830,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Alice Mason — 2416 Brooklyn — KANSAS CITY, MISSOURI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=1264,1739,801,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_right_gemini-2.0-flash_box_annotations.json"
+}

@@ -1,0 +1,304 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. J. Lucas — 1654 S. 5th — HELENA, MONTANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=1942,448,153,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Martha Smith — 2211 Ohio St — FREMONT, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=1694,1776,154,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. H. Hicks — 2530 Maple St — FREMONT, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=1844,1789,140,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "G. H. Ashby — 2228 Willis Ave — FREMONT, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=1787,1823,151,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Maebl Stitt — 204 S. Park — HASTINGS, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=58,385,1662,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paxton (W) — Broadway — LINCOLN, NEBRASKA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=60,483,1665,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Josephine Duffy — 1514 S. 6th — LINCOLN, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=60,533,1670,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jessie Smith — 412 N. \"H\" St — LINCOLN, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=77,703,1663,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. M. Brannon — 1550 N. \"C\" St — LINCOLN, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=77,727,1665,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gus Herndon — 1725 N. Irving St — LINCOLN, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=77,758,1610,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ella Craig — 314 S. Hastings Ave — McCOOK, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=79,852,1663,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Thomas Mose — 902 S. Kansas Ave — McCOOK, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=79,881,1668,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Savoy (W) — 11th and \"P\" Streets — NORTH PLATTE, NEBRASKA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=84,978,737,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tourist Camp — 27th and Saltillo — NORTH PLATTE, NEBRASKA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=84,1005,691,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. W. R. Colley — 1035 Rose Street — OMAHA, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=89,1078,1668,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Pearl Chrisman — 524 N. 9th Street — OMAHA, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=87,1103,1672,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Robert Johnson — 907 \"S\" Street — OMAHA, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=87,1127,1670,25",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Eugene Edwards — 2420 \"P\" Street — OMAHA, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=87,1152,1670,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Congress Hotel (W) — 302 West B. Street — OMAHA, NEBRASKA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=89,1268,890,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "National Hotel (W) — 123 East B. Street — OMAHA, NEBRASKA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=89,1294,866,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Keith Hotel (W) — Dewey and Front Streets — OMAHA, NEBRASKA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=89,1391,948,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Patton Hotel — 1014-18 S. 11th Street — OMAHA, NEBRASKA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=94,1490,796,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dee Gee Apartments — 2020-24 Burt Street — OMAHA, NEBRASKA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=94,1514,912,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Louise Strawther — 2220 Willis Ave — OMAHA, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=96,1579,1591,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Overall — 2010 Lake St — OMAHA, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=96,1600,1596,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Willa Mae Anderson — 2207 N. 25th St — OMAHA, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=96,1674,1600,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dave Brown — 2619 Caldwell Street — OMAHA, NEBRASKA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832720/full/!760,760/0/default.jpg#xywh=94,1725,1598,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0016_57832720_right_gemini-2.0-flash_box_annotations.json"
+}

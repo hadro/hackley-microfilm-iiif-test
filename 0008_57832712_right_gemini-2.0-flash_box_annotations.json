@@ -1,0 +1,238 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cannon's Hotel — Kirkwood Street — DOVER, DELAWARE — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1322,383,358,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Bells — Lincoln Street — DOVER, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1321,450,835,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cannon's — Division Street — DOVER, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1322,383,358,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Weston's — Division Street — DOVER, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1322,499,834,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dean's — Forrest Street — DOVER, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1321,526,835,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Caleb Brown — Lincoln Street — DOVER, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1321,551,835,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Moseley's — Division Street — DOVER, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1322,575,830,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. E. W. America — 1106-1108 Tatnall St — WILMINGTON, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1325,687,836,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Anna Smith — 102 W. 12th Street — WILMINGTON, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1325,714,831,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ella Till — 1008 French St — WILMINGTON, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1323,739,834,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Henrietta Wicks — 104 W. 12th St — WILMINGTON, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1325,763,835,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mataline Wilson — 1317 Tatnall St — WILMINGTON, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1325,788,835,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Cooper — 110 W. 12th St — WILMINGTON, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1325,813,835,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Humphrey — 905 French Street — WILMINGTON, DELAWARE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1325,837,835,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Whitelaw Hotel — 13th and Tea Streets, N.W. — WASHINGTON, DISTRICT OF COLUMBIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1329,1053,491,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 1816 12th Street, N.W — WASHINGTON, DISTRICT OF COLUMBIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1328,1077,394,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 901 Rhode Island Ave., N.W — WASHINGTON, DISTRICT OF COLUMBIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1329,1105,472,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. L. O. Diggs — 215 Florida Ave., N. W — WASHINGTON, DISTRICT OF COLUMBIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1328,1171,834,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Eva Hood Watson — 1435 Que Street, N.W — WASHINGTON, DISTRICT OF COLUMBIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1328,1196,833,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Richard Lee — 1212 Girard Street, N.W — WASHINGTON, DISTRICT OF COLUMBIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1328,1229,834,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary J. Hines — 1929 13th Street, N.W — WASHINGTON, DISTRICT OF COLUMBIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832712/full/!760,760/0/default.jpg#xywh=1328,1247,833,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0008_57832712_right_gemini-2.0-flash_box_annotations.json"
+}

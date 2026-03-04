@@ -1,0 +1,326 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "McFall's Apartments — 202 E. Park Street — ENID, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=420,348,807,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allen Crumb — 222 E. Park Street — ENID, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=420,373,810,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Eliza Baty — 520 E. State Street — ENID, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=421,402,810,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ed. Johnson — 210 E. Market Street — ENID, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=420,422,811,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Elsie Cabble — 502 E. Wabash — ENID, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=420,445,811,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Melinda Ware — 712 E. Park Street — ENID, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=419,468,812,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Celia James — 1002 E. Springer Ave — GUTHRIE, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=419,587,812,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. A. Smith — 317 S. 2nd Street — GUTHRIE, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=420,612,811,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Martha Jordan — 304 S. 2nd Street — GUTHRIE, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=420,640,811,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. and M. Hotel — 219 N. Central — OKLAHOMA CITY, OKLAHOMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=420,756,366,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bethel Rooms — 326½ E. 2nd — OKLAHOMA CITY, OKLAHOMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=420,781,307,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hall Hotel — 308½ N. Central — OKLAHOMA CITY, OKLAHOMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=419,803,314,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Magnolia Inn — 629 E. 4th — OKLAHOMA CITY, OKLAHOMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=419,828,288,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "William Rooms — 323 E. 2nd — OKLAHOMA CITY, OKLAHOMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=420,854,315,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ollison Hotel — 501 S. Bell St. — SHAWNEE, OKLAHOMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=414,970,331,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. Shortridge — E. Farrell St — SHAWNEE, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=413,1036,703,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. Gross — 602 S. Bell St — SHAWNEE, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=413,1061,636,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Small Hotel — 615 E. Archer St — TULSA, OKLAHOMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=413,1176,391,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Williams Hotel — 124 E. Archer St. — TULSA, OKLAHOMA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=414,1201,382,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. C. Baughman — 320 N. Greenwood — TULSA, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=413,1267,806,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. H. Smith — 124½ N. Greenwood — TULSA, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=411,1289,809,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Thomas Gentry — 537 N. Detroit Ave — TULSA, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=410,1315,808,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. L. Netherland — 542 N. Elgin St — TULSA, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=411,1342,808,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 123 E. Archer St. — TULSA, OKLAHOMA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=413,1367,351,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Badger's Hotel — Gearhart — ASTORIA, OREGON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=411,1549,277,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Astoria (W) — 14th and Commercial — ASTORIA, OREGON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=411,1574,394,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Norblad (W) — 14th and Exchange — ASTORIA, OREGON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=411,1597,383,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elliott (W) — 12th and Commercial — ASTORIA, OREGON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=411,1622,383,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Medley Hotel- — PORTLAND, OREGON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=417,1712,319,101",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_left_gemini-2.0-flash_box_annotations.json"
+}

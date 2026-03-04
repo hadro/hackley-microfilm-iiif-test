@@ -1,0 +1,458 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Geo. Daniel — 605 S. 3rd Ave — OTTAWA, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1280,313,479,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Clarence Gorum — 301 Stewart Ave — ROCKFORD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1273,396,801,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Gilbert Wright — 422 S. Court St — ROCKFORD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1275,415,799,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Adella M. Ross — 1026 Chamberlain St — ROCKFORD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1278,446,800,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sam Westbrooke — 310 Olive St — ROCKFORD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1277,469,800,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Booker Washington Center — 220 S. Main St. — ROCKFORD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1340,495,578,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Wiliams — 124 S. Eleventh St. — SPRINGFIELD, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1275,578,385,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Homestead Hotel — 130 S. Eleventh St. — SPRINGFIELD, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1275,603,418,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bessie Mosby — 1614 E. Jackson St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1274,651,798,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Holman — 1208 S. 14th St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1274,676,828,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Helen Robbins — 1616 E. Jackson St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1274,699,833,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Rollins — 1127 E. Mason St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1274,728,833,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary E. Rollins — 1123 E. Adams St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1274,753,831,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Nellie Tate — 400 W. Chenery St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1273,776,834,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Julia F. Johnson — 1144 N. 7th St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1273,801,834,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Georgia Bell — 625 N. 2nd St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1273,823,832,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Rufus Nelson — 742 N. 2nd St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1273,853,834,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jessie Rogers — 1004 E. Washington St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,874,835,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Elizabeth Collier — 1125 E. Washington St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,901,835,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Elizabeth Brooks — 705 N. 2nd St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,925,832,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. S. A. Ware — 1520 E. Washington St — SPRINGFIELD, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,947,835,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Robert Williams — 831 Mott Ave — WAUKEGAN, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,1031,835,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Rosie Norwood — 819 Mott Ave — WAUKEGAN, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,1058,833,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hobbs — 143 Liberty Street — WAUKEGAN, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,1083,832,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Elmira Botts — 336 St. Joe St — ELKHART, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,1268,480,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bertha Bell — 672 Lincoln Ave — EVANSVILLE, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1270,1344,833,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. W. Lauderdale — 605 Oak St — EVANSVILLE, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1269,1368,834,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Katie Chappell — 811 Cherry St — EVANSVILLE, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1270,1395,833,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Fannie Snow — 719 Oak St — EVANSVILLE, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,1426,831,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Community Center — 618 Cherry St — EVANSVILLE, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1270,1449,801,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phyllis Wheatley Home — 410 Eighth St — EVANSVILLE, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1269,1472,799,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wheatley Social Center — FORT WAYNE, INDIANA — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1270,1532,369,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hammond Hotel — 21st and Boulevard Place — INDIANAPOLIS, INDIANA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1270,1610,484,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phyllis Wheatley Y. W. C. A. — N. West. and Walnut Sts. — INDIANAPOLIS, INDIANA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1270,1630,750,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — Senate Ave. and Michigan St. — INDIANAPOLIS, INDIANA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,1659,563,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Park View Hotel — New York and California Sts. — INDIANAPOLIS, INDIANA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1269,1686,522,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. Phil Waters — 941 N. California St — INDIANAPOLIS, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1272,1735,830,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. M. C. Willis — 542 N. California St — INDIANAPOLIS, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1270,1754,832,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. A. Lewis — 2717 Paris Ave — INDIANAPOLIS, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1268,1778,833,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. B. F. Farrell — 928 N. West St — INDIANAPOLIS, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1269,1804,830,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Harris — 924 N. West St — INDIANAPOLIS, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=1268,1833,831,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json/entry/40"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_right_gemini-2.0-flash_box_annotations.json"
+}

@@ -1,0 +1,337 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "City Hotel — 28 N. 7th — ALLENTOWN, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1272,344,234,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*M. Dorothy Taliaferro — 378 Union Street — ALLENTOWN, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1272,409,827,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. T. A. Jackson — 401 Hamilton — ALLENTOWN, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1270,432,829,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Clarence Johnson — 124 N. Law — ALLENTOWN, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1270,457,826,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. H. Washington — 207 Lehigh — ALLENTOWN, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1272,481,827,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Liberty Inn — Liberty and Water Streets — CHAMBERSBURG, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1272,602,426,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Harry Pinns — 68 W. Liberty St — CHAMBERSBURG, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,667,798,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Carrie Stevenson — 619 S. Main St — CHAMBERSBURG, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,689,830,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ruth L. Bennett Home for Women and Girls — 1830 W. 2nd St. — CHESTER, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1274,812,691,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Hotel Pope — 1318 French Street. — ERIE, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1272,929,564,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jackson House — 1004 N. 6th St. — HARRISBURG, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1274,1046,336,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Harold Carter — 606 Foster St — HARRISBURG, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1089,798,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hattie Hall — Herr and Montgomery Sts — HARRISBURG, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1272,1114,797,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ella Clark — 462 Rockland St — LANCASTER, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1229,830,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ella Williams — 426 W. Green St — LANCASTER, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1272,1254,830,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John C. Carter — 143 S. Duke St — LANCASTER, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1272,1279,830,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. L. Polite — 540 North St — LANCASTER, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1308,826,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jackson — 258 Bissel Ave — OIL CITY, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1426,705,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Moore — 8 Bishop St — OIL CITY, PENNSYLVANIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1450,420,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Douglass Hotel — Broad and Lombard Sts. — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1275,1574,628,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Baltimore Hotel — 1426 Lombard St. — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1275,1598,378,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Citizens Hotel — 420 S. 15th St. — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1274,1623,321,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Roadside — 514 S. 15th St. — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1648,328,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Attucks — 15th and Catherine — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1274,1673,361,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Alston House — 2333 Catherine St. — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1697,403,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Elrae — 805 N. 13th St. — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1723,303,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Blue Bowl — 22nd and Montgomery Ave. — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1748,420,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 1724 Christian St. — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1772,349,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 1605 Catherine St. — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1798,345,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 6128 Germantown Ave. — PHILADELPHIA, PENNSYLVANIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832725/full/!760,760/0/default.jpg#xywh=1273,1798,345,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json/entry/29"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0021_57832725_right_gemini-2.0-flash_box_annotations.json"
+}

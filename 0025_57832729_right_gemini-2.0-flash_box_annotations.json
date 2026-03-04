@@ -1,0 +1,161 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emil Pirtle — 45 E. Eleventh Street — FOND DU LAC, WISCONSIN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=82,407,1667,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Van Williams — 97 S. Seymour Street — FOND DU LAC, WISCONSIN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=82,433,1665,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fowler House (w) — 67 High St. — OSHKOSH, WISCONSIN — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=87,537,709,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lawrence Shadd — 37 King St — OSHKOSH, WISCONSIN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=91,603,1601,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thomas Pemberton — 17 Sterling St — OSHKOSH, WISCONSIN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=87,627,1605,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Floyd Pemberton — 239 Liberty St — OSHKOSH, WISCONSIN — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=94,655,1600,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. E. Edwards — 347 N. Grant — CASPER, WYOMING — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=96,892,1600,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hubert Keeling — 331 N. Grant — CASPER, WYOMING — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=99,917,1595,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Barbeque Inn — 622 W. 20th Street — CASPER, WYOMING — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=101,1170,1663,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Baker Apartments — 1806 Bert Ave — CASPER, WYOMING — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=99,1239,1600,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ida Randall — 612 W. 18th St — CASPER, WYOMING — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=101,1261,1598,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mattie Herman — 621 W. 18th St — CASPER, WYOMING — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=99,1285,1602,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Rosa Collins — 905 6th St — ROCK SPRINGS, WYOMING — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=101,1393,1668,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. S. R. Helm — 254 Elias Ave — ROCK SPRINGS, WYOMING — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832729/full/!760,760/0/default.jpg#xywh=101,1420,1665,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0025_57832729_right_gemini-2.0-flash_box_annotations.json"
+}

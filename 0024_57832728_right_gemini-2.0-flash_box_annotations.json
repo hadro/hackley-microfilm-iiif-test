@@ -1,0 +1,337 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. R.Cooke — 2211 Marshall Ave — NEWPORT NEWS, VIRGINIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1279,256,832,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. H. Taliaferro — 2206 Marshall Ave — NEWPORT NEWS, VIRGINIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1279,282,831,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Henry Brown — 2137 Marshall Ave — NEWPORT NEWS, VIRGINIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1279,306,799,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Charles Stephens — 1909 Marshall Ave — NEWPORT NEWS, VIRGINIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1279,331,800,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. E. Barron — 758 25th St — NEWPORT NEWS, VIRGINIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1279,356,800,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. William Herndon — 753 26th St — NEWPORT NEWS, VIRGINIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1279,380,799,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emma B. Johnson — 116 South Ave — PETERSBURG, VIRGINIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1284,503,835,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miller's Hotel — 2nd and Leigh — RICHMOND, VIRGINIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1287,622,326,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manhattan Hotel — 416 E. Clay — RICHMOND, VIRGINIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1287,649,336,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miller's and Archers — 3rd and Clay — RICHMOND, VIRGINIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1290,674,379,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. I. Wright — 400 Clay St — RICHMOND, VIRGINIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1291,715,833,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ella Brice — 14 W. Clay St — RICHMOND, VIRGINIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1291,741,833,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Pannell's Inn — 613 N. Augusta St — STAUNTON, VIRGINIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1295,892,588,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Evans — Sharp St. — WINCHESTER, VIRGINIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1298,1000,242,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ella Lovett — S. Main St — WINCHESTER, VIRGINIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1297,1032,801,44",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jos. Willis — N. Main St — WINCHESTER, VIRGINIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1298,1061,834,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. George (w) — Rucker and Hewitt Ave. — EVERETT, WASHINGTON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1303,1256,464,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mitchell (w) — Hewitt and Lombard Ave. — EVERETT, WASHINGTON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1303,1281,444,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Royal (w) — 1508 Hewitt Ave. — EVERETT, WASHINGTON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1304,1312,324,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Granada (w) — 2928 Wetmore Ave. (Theatrical) — EVERETT, WASHINGTON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1303,1330,522,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. John Samuels — 2214 Wetmore Ave — EVERETT, WASHINGTON — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1303,1374,833,40",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. T. Payne — 2132 Oakes Ave — EVERETT, WASHINGTON — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1305,1401,831,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Samuels — 3620 Hoyt Ave — EVERETT, WASHINGTON — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1308,1434,445,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tacoma Hotel (w) — .4th and Capitol Way — OLYMPIA, WASHINGTON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1304,1529,449,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kneeland (w) — 4th Ave. — OLYMPIA, WASHINGTON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1308,1558,269,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Benson (w) — 209 4th Ave. — OLYMPIA, WASHINGTON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1308,1585,287,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bay View (w) — 215 W. 3rd — OLYMPIA, WASHINGTON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1308,1608,302,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Knox (w) — State and Washington — OLYMPIA, WASHINGTON — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1309,1632,380,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. N. J. Sims — 1127 Shannon — SPOKANE, WASHINGTON — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1308,1722,800,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Frances Jackson — 117 E. 3rd — SPOKANE, WASHINGTON — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832728/full/!760,760/0/default.jpg#xywh=1308,1748,694,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json/entry/29"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0024_57832728_right_gemini-2.0-flash_box_annotations.json"
+}

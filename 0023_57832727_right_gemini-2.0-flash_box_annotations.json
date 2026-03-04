@@ -1,0 +1,381 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Daniel — 413 S. Oregon St. — EL PASO, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1275,260,355,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Scott — 218 S. Mesa Ave. — EL PASO, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1278,285,332,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. B. F. Phillips — 704 S. St. Vrain St — EL PASO, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1278,325,832,42",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Charity Williams — 1507 Wyoming St — EL PASO, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1278,350,833,43",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lonnie Walker — 2923 E. San Antonio — EL PASO, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1278,374,832,46",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. S. W. Stull — 511 Tornillo — EL PASO, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1279,399,832,44",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Jim — 5th and Grove — FORT WORTH, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1279,498,278,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. N. M. Currey — 812 Stella St — FORT WORTH, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1280,533,835,46",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Matilda Smith — 805 E. 9th St — FORT WORTH, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1280,562,835,42",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oleander Hotel — 421½ 25th St. — GALVESTON, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1285,658,326,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss G. H. Freeman — 1414 29th St — GALVESTON, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1284,695,803,47",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Joe Pope — 2824 Avenue M — GALVESTON, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1285,722,834,46",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Carlton Hotel — 201 W. Commerce Street — MEXIA, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1286,817,439,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Claud Shannon — 112 S. Belknap St — MEXIA, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1286,857,834,47",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sallie P. Miller — 302 N. Denton St — MEXIA, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1287,881,834,48",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lizzie Ransom — 119 N. Denton St — MEXIA, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1286,906,835,47",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. Willis — 206 W. Bowie St — MEXIA, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1291,933,830,45",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brownrigg Hotel — 88 N. 22nd St. — PARIS, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1291,1035,360,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dixon Rooming House — 22nd and Booth Sts. — PARIS, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1292,1059,491,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Inez Scott — 115 N. 22nd St — PARIS, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1292,1099,799,45",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Minnie Taylor — 24th and Tudor Sts — PARIS, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1292,1124,798,46",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sallie E. Crawford — Happy Hollow — PITTSBURG, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1293,1212,837,47",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss L. Brown — 1216 Dawson St — SAN ANTONIO, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1295,1290,835,56",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Lawson — 245 Canton St — SAN ANTONIO, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1295,1321,833,47",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Thomas — 516 N. Border St — TYLER, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1299,1417,686,41",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Wm. Langston — 1010 N. Border St — TYLER, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1299,1437,833,50",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Amanda Nunn — 413 E. Main St — WAXAHACHIE, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1299,1531,833,45",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Maggie Johnson — 427 E. Main St — WAXAHACHIE, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1299,1556,800,46",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Nettie Lowe — 418 E. Main St — WAXAHACHIE, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1299,1582,802,42",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Nancy Jones — 430 E. Main St — WAXAHACHIE, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1298,1605,801,47",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Flax Hotel — 321 Mill St. — WICHITA FALLS, TEXAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1301,1713,269,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rosie Ross — 108 Cook St — WICHITA FALLS, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1301,1745,833,50",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. B. Jeffrey — 509 Juarez St — WICHITA FALLS, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1299,1774,834,45",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "T. S. Jackson — 303 Park Street — WICHITA FALLS, TEXAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=1303,1810,346,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json/entry/33"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_right_gemini-2.0-flash_box_annotations.json"
+}

@@ -1,0 +1,293 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. J. Ross — 514 Mercer St — ALBANY, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,324,836,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Callie Washington — 214 S. Jackson St — ALBANY, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,348,838,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lula Davis — 313 South St — ALBANY, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1323,373,837,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Aurelia Bentley — 525 Mercer Street — ALBANY, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,396,835,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James Hotel — 241 Auburn Ave. N. E. — ATLANTA, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,496,413,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. B. Jackson — 49 Davis Street, N. W — ATLANTA, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,560,804,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Alfred Lawless — 518 Auburn Ave N. E — ATLANTA, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1320,585,802,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 22 Butler Street, N. E — ATLANTA, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,612,803,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ruth Hunter — 504 S. Jefferson St — DUBLIN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,709,834,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. H. T. O. Banyon — 316 S. Jefferson St — DUBLIN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1321,733,834,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mattie Kea — 405 S. Jefferson St — DUBLIN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,759,802,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Madie Burden — 508 McCall St — DUBLIN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,782,802,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Mattie Mariano — 408 First Ave — EASTMAN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1325,882,836,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ida B. Smith — 218 South College Street — EASTMAN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,907,838,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. P. Cooper — 211 College Street — EASTMAN, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,933,836,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Elizabeth Jeter — Railroad Section — GREENSBORO, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1322,1024,839,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bessie Walker — Springfield Section — GREENSBORO, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1325,1053,836,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Carrie Brown — Canaan Section — GREENSBORO, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1323,1077,837,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Douglas Hotel — 361-3 Broadway — MACON, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1325,1178,343,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richmond Hotel — 319½ Broadway — MACON, GEORGIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1325,1203,359,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. F. W. Herndon — 139 First Ave — MACON, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1323,1279,835,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. C. Moore — 122 Spring St — MACON, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1323,1306,803,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mamie Clemons — 104 Spring St — MACON, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1323,1331,804,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. A. Monroe — 108 Spring St — MACON, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1323,1357,802,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. K. G. Scarlett — 843 Reynolds St — WAY CROSS, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1323,1454,637,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Evalena Duggar — 964 Reynolds St — WAY CROSS, GEORGIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=1323,1476,679,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_right_gemini-2.0-flash_box_annotations.json"
+}

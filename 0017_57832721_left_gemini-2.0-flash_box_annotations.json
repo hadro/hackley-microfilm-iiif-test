@@ -1,0 +1,337 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eagle (W) — N. Main St — CONCORD, NEW HAMPSHIRE — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=385,688,825,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Endicott (W) — S. Main St — CONCORD, NEW HAMPSHIRE — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=384,712,825,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phœnix (W) — N. Main St — CONCORD, NEW HAMPSHIRE — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=384,738,706,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lenox (W) — N. Main St — CONCORD, NEW HAMPSHIRE — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=381,760,709,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "American House (W) — N. Main St — CONCORD, NEW HAMPSHIRE — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=383,787,706,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. E. C. Burgess — 1200 Springwood Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=377,1101,836,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Alice Arch — 23 Atkins Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=377,1125,835,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Virginia Maupin — 25 Atkins Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=377,1150,836,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Wigfall — 1112 Adams Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=377,1176,836,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. William Minyard — 1106 Adams Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=380,1206,834,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Brown — 135 Ridge Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=378,1225,805,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sadie Wilks — 1112 Mattison Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=377,1249,802,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. C. Yeager — 1406 Mattison Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=375,1275,837,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Carrie Jones — 141 Sylvan Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=377,1304,801,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. Jones — 1206 Washington Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=377,1325,835,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. William Greenlow — 1317 Summerfield Ave — ASBURY PARK, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=375,1349,835,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Liberty Apartment Hotel — Baltic and Kentucky Aves. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=373,1469,576,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Ridley — 1806 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=373,1493,345,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Wright — 1700 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=373,1517,343,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Russell — 23-25 N. Kentucky Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=373,1543,427,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Scott — 17 N. Illinois Ave. — ATLANTIC CITY, NEW JERSEY — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=377,1568,342,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Parthenia Tanner — 110 N. Indiana Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=373,1632,490,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Victoria Jones — 1720 Arctic Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=375,1658,412,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Contee — 111 N. Indiana Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=373,1683,410,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. P. C. Mills — 326 N. Indiana Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=372,1707,420,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. R. S. Goss — 324 N. Indiana Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=372,1734,447,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Rosa Dowling — 328 N. Indiana Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=372,1757,453,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Rosa Diggs — 323 N. Indiana Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=371,1783,427,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — Arctic Ave. Br. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=371,1807,323,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 30 N. Ohio Ave. — ATLANTIC CITY, NEW JERSEY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832721/full/!760,760/0/default.jpg#xywh=371,1833,335,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json/entry/29"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0017_57832721_left_gemini-2.0-flash_box_annotations.json"
+}

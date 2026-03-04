@@ -1,0 +1,414 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emma Dawson — 1010 Yuma Street — MANHATTAN, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=353,288,801,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Henrietta Jackson — 830 Yuma Street — MANHATTAN, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=353,312,800,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rev. John Allen — 211 E. Logan St — OTTAWA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=351,401,804,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Marie Clayborne — 502 E. 2d St — OTTAWA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=351,425,836,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. B. F. Banks — 432— N. Main — OTTAWA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=353,450,836,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Folson — 112 N. Poplar — OTTAWA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=355,472,835,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. W. White — 821 Cypress — OTTAWA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=356,501,834,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. May Hood — 1815 Clark Ave — PARSONS, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=356,591,801,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Fanny Williams — 2216 Grand Ave — PARSONS, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=354,615,836,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bettie Mukes — Jefferson St., 300 block — TOPEKA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=353,710,802,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. H. Rhodes — 414 Lime St — TOPEKA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=353,734,803,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ellen Slaughter — 1407 Monroe — TOPEKA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=353,759,801,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elks Community Center — 1504 Adams St. — TOPEKA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=356,786,446,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bettie Board — N. Mile Street — ELIZABETHTOWN, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=356,934,799,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Annie Johnson — Valley Creek Road — ELIZABETHTOWN, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=354,958,836,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. B. Tyler — Mile Street — ELIZABETHTOWN, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=354,984,833,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. E. Wintersmith — S. Dixie Ave — ELIZABETHTOWN, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=353,1008,801,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Burbridge — 430 Lewis Street — GLASGOW, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=355,1107,835,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bertha Baker — 422 Lewis Street — GLASGOW, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=355,1132,834,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Gertrude Greer — 18 E. Back Street — GLASGOW, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=354,1158,836,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Susie Murrell — 243 Race Street — GLASGOW, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=354,1183,836,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Eliza Trigg — 500 S. Lewis Street — GLASGOW, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=355,1207,835,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Walter Tinsley — 428 Lewis Street — GLASGOW, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=355,1232,835,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edward Wells — 523 Lewis Street — GLASGOW, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=356,1257,833,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. Howard — 412 Lewis Street — GLASGOW, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=356,1280,834,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Julia Razor — 436 E. Main St — HAZARD, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=354,1373,801,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jessie Richardson — HAZARD, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=355,1401,800,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ann Boyd — 302 E. First St — HOPKINSVILLE, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=355,1498,836,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary McGregor — 200 E. First St — HOPKINSVILLE, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=355,1525,835,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. McNary — 113 Liberty St — HOPKINSVILLE, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=355,1551,835,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. C. Hopkins — 128 Liberty St — HOPKINSVILLE, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=354,1575,836,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pythian Temple Hotel — 10th & Chestnut Sts. — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=356,1673,835,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allen Hotel — 2516 W. Madison — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=356,1698,336,18",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 920 W. Chestnut — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=356,1723,337,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 6th bet. Walnut and Chestnut — LOUISVILLE, KENTUCKY — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=356,1748,477,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lucy A. Brown — 1012 W. Chestnut — LOUISVILLE, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=355,1815,802,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hattie Daniels — 1512 W. Chestnut — LOUISVILLE, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=351,1841,800,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json/entry/36"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_left_gemini-2.0-flash_box_annotations.json"
+}

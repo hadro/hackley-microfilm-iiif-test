@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LE GRANDE HOTEL — 1365-85 Lafayette Street — CHATHAM, ONTARIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832730/full/!760,760/0/default.jpg#xywh=1269,196,880,68",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PANNELL'S INN — 613 N. AUGUSTA ST. — STAUNTON, VIRGINIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832730/full/!760,760/0/default.jpg#xywh=1339,633,736,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Dumas — Ave. at 132nd St. 205 W. 135th Street\nAT SEVENTH AVE. — New York City, NEW YORK — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832730/full/!760,760/0/default.jpg#xywh=1686,1126,318,48",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PANNELL'S INN — Left Side of Augusta Street which is the Lee Highway. — STAUNTON, VIRGINIA — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832730/full/!760,760/0/default.jpg#xywh=1339,633,736,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lafayette — New York City, NEW YORK — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832730/full/!760,760/0/default.jpg#xywh=1232,270,693,50",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json"
+}

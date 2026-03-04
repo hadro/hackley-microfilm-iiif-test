@@ -1,0 +1,271 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Patterson — 761 S. Rampart — NEW ORLEANS, LOUISIANA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=314,285,295,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Page — 1038 Dryades — NEW ORLEANS, LOUISIANA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=314,310,218,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 2220 Dryades — NEW ORLEANS, LOUISIANA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=314,335,301,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Felix Livaudais — 1954 Jackson Ave — NEW ORLEANS, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=314,397,836,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. N. J. Bailey — 2426 Jackson Ave — NEW ORLEANS, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=314,424,836,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Priscilla Hart — 1725 Iberville Street — NEW ORLEANS, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=314,449,837,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Victoria Arceneaux — 723 E. Landry — OPELOUSAS, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=310,563,804,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henrietta Johnson — N. Market St — OPELOUSAS, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=310,587,806,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beulah Giron — S. Lombard St — OPELOUSAS, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=310,612,806,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sarah Vigue — 729 W. Landry — OPELOUSAS, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=308,637,806,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lloyd Hotel — 1229 Reynolds — SHREVEPORT, LOUISIANA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=310,775,306,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grant Flats — 1239 Reynolds — SHREVEPORT, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=309,840,807,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jannnie Jones — 1950 Hotchkiss — SHREVEPORT, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=309,863,839,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Amanda Webb — 1245 Reynolds — SHREVEPORT, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=309,886,840,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Wesley Elder — 1920 Hotchkiss — SHREVEPORT, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=309,911,840,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lawrence House (W) — 34 Grove St. — AUGUSTA, MAINE — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=310,1150,403,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Joseph McLean — 16 Drew St — AUGUSTA, MAINE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=308,1200,576,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bangor House (W) — Main St — BANGOR, MAINE — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=307,1295,836,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Windsor Hotel (W) — Harlow St. — BANGOR, MAINE — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=309,1322,364,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Louise Elms — 118 Parker St — BANGOR, MAINE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=308,1390,541,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ross E. Cummings — 210 Portland Ave — OLD RICHARD, MAINE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=307,1504,838,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. E. D. Richey — 84 Congress Street — PORTLAND, MAINE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=309,1620,836,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Cornelius Harris — 38 Smith Street — PORTLAND, MAINE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=307,1642,803,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Martin — 79 Oxford Street — PORTLAND, MAINE — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832717/full/!760,760/0/default.jpg#xywh=307,1670,802,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0013_57832717_left_gemini-2.0-flash_box_annotations.json"
+}

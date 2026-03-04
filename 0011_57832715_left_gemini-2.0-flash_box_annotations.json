@@ -1,0 +1,315 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jas, Jones — 612 Indiana Ave — JEFFERSONVILLE, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=676,322,1672,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Teresa Blaine — 818 Indiana Ave — JEFFERSONVILLE, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=676,345,1675,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles Thomas — 607 Missouri Ave — JEFFERSONVILLE, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=676,373,1675,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leonard Redd — 711 Missouri Ave — JEFFERSONVILLE, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=676,398,1670,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. W. Winburn — 1015 N. Kennedy Street — KOKOMO, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=676,509,1612,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Chas. Hardinson — 812 N. Kennedy Street — KOKOMO, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,534,1672,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Albert Woods — 1107 N. Purdun Street — KOKOMO, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,560,1607,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. S. D. Hughes — 1045 N. Kennedy Street — KOKOMO, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=676,584,1608,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. John Glover — 1410 W. 7th Street — MARION, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,700,1675,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Daisy Landess — 1329 W. 7th Street — MARION, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=676,726,1675,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jessie D. Clay — 513 Pearl Street — NEW ALBANY, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=683,837,1608,25",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Edna Huggins — 514 State Street — NEW ALBANY, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=683,864,1605,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. E. R. Gaddie — 2235 E. Market Street — NEW ALBANY, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,889,1675,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Josie Wilson — 136 S. 6th Street — NEW ALBANY, INDIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=674,1107,1619,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Anna Nelson — 1019 N. 10th St., W — BURLINGTON, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1223,1682,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. De Mae Lee Fine — 1126 N. 9th St., W — BURLINGTON, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1244,1682,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. H. Lavelle — 812 9th Ave., E — BURLINGTON, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1273,1682,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lydia Thorpe — 705 9th Ave., E — BURLINGTON, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1298,1682,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hervetta Pelkey — 712 Julien Ave — CEDAR RAPIDS, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1421,1682,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Pearl Martin — 712 Julien Ave — CEDAR RAPIDS, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1448,1610,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. Brown — 795 Roberts St — CEDAR RAPIDS, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1472,1612,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. John Rose — 802 N. Fellows — DUBUQUE, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=683,1602,1680,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "William Bailey — 526 Center Ave — DUBUQUE, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=686,1628,1675,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. H. Hewitt — 512 Grant — DUBUQUE, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1652,1607,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Harry Owens — 814 W. Pershing — DUBUQUE, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1677,1665,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. B. F. Tredwell — 709 Logan Street — OTTUMWA, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=683,1790,1678,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Spencer — 220 Sumner Street — OTTUMWA, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1815,1677,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Eleazer Lee — 745 Vinton Street — OTTUMWA, IOWA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=681,1837,1677,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_left_gemini-2.0-flash_box_annotations.json"
+}

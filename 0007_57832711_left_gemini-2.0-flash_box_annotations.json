@@ -1,0 +1,337 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dunbar — 4025 So. Central Ave. — LOS ANGELES, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=366,339,335,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 1006 E. 28th Street — LOS ANGELES, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=365,366,838,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 1108 E. 12th Street — LOS ANGELES, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=367,391,363,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Soujourner Truth Industrial Home — 1119 E. Adams Street — LOS ANGELES, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=367,415,734,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bessie Hoffman — 760 W. 17th Street — LOS ANGELES, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=367,484,801,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. S. H. Grier — 1121 E. 22nd Street — LOS ANGELES, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=367,507,802,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. D. Crealoiu — 1311 W. 35th Place — LOS ANGELES, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=365,534,803,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. O. Banks — 1235 So. New Hampshire Street — LOS ANGELES, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=368,556,800,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. C. Clark — 805 Linden Street — OAKLAND, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=367,652,836,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Homer Williams — 814 Linden Street — OAKLAND, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=368,680,835,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 804 Filbert Street — OAKLAND, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=365,366,838,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*S. M. Carlton — 939 W. 6th Street, (Cafe) — SAN BERNARDINO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=367,797,837,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Anneleen Phillips — 964 6th Street — SAN BERNARDINO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=367,829,804,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jas. Weatherly — 981 6th Street — SAN BERNARDINO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=368,853,835,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robinson Hotel — 542 Sixth St. — SAN DIEGO, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=368,952,331,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Douglass Hotel — 206 Market St. — SAN DIEGO, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=366,977,350,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Western Hotel (W) — 522 Seventh St. — SAN DIEGO, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=368,1001,407,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. J. Gentry (Church, Private) — 719 Crosby St. — SAN DIEGO, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=368,1024,522,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Elizabeth Wallace — 537 13th St. — SAN DIEGO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=368,1094,406,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Margaret Chance — 279 \"A\" St., Coronado Island — SAN DIEGO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=367,1111,805,28",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary E. Gooden — 3030 Franklin St — SAN DIEGO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=368,1139,804,25",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. H. Dodge — 2835 Imperial St — SAN DIEGO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=369,1166,803,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Francis (W) — Powell and Geary Sts. — SAN FRANCISCO, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=368,1266,442,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Whitcomb (W) — 1231 Market St. — SAN FRANCISCO, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=366,1291,345,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brayton (W) — 50 Turk St. — SAN FRANCISCO, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=367,1316,292,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shawnut (W) — 516 O'Farrel St. — SAN FRANCISCO, CALIFORNIA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=366,1340,349,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. M. Ross Tatum — 2011 Buchanan Street — SAN FRANCISCO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=368,1405,801,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Laura E. Davis — 1564 Jones Street — SAN FRANCISCO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=369,1429,834,25",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Fred Johnson — 1788 Sutter Street — SAN FRANCISCO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=365,1456,691,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jeffery T. Wilson — 2226 Sutter Street — SAN FRANCISCO, CALIFORNIA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832711/full/!760,760/0/default.jpg#xywh=366,1481,802,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json/entry/29"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0007_57832711_left_gemini-2.0-flash_box_annotations.json"
+}

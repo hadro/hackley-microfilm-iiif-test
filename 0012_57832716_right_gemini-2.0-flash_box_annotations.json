@@ -1,0 +1,370 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emily Butler — 133 E. Locust St — MT. STERLING, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1308,343,799,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. White — 131 E. Locust St — MT. STERLING, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1308,369,801,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Genoa Grubbs — 1562 E. High St — MT. STERLING, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1310,395,798,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jefferson — 514 S. 8th — PADUCAH, KENTUCKY — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1313,497,225,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Burlington — 116 Kentucky Ave. — PADUCAH, KENTUCKY — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1311,522,332,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington — 805 Washington St. — PADUCAH, KENTUCKY — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1313,547,351,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Metropolitan — 724 Jackson St. — PADUCAH, KENTUCKY — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1313,573,326,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ulysses Ross — 13th and Clay — PADUCAH, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1313,641,835,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Willie T. Carter — 709 Washington — PADUCAH, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1311,664,835,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sopha M. Bacon — 1203 Clay — PADUCAH, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1311,688,837,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ruth Blakemore — 902 Washington — PADUCAH, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1313,712,802,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rosa Bard — 918 N. 10th — PADUCAH, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1313,738,835,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. N. E. Boyd — 1009 N. 10th — PADUCAH, KENTUCKY — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1314,762,835,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sarah Dyson — Richardson Town — BOGALUSA, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1319,969,833,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. L. Raine — 508 North Ave — BOGALUSA, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1320,995,834,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. Spellman Bennett — 501 Ave. S — BOGALUSA, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1320,1020,801,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lottie Breaux Hebert — 618 Clay Street — LAFAYETTE, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1320,1115,836,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. Miles — 302 St. John Street — LAFAYETTE, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1321,1142,835,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. Bondreaux — 315 Stewart Street — LAFAYETTE, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1322,1166,834,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Margaret Lee — Crosby Sub-division, (P. O. Box 402) — MANSFIELD, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1325,1265,836,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. S. A. Wilson — N. Jefferson Street — MANSFIELD, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1323,1288,835,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mittie Biles — Crosby Sub-division — MANSFIELD, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1323,1315,802,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Will Simpkins — Jenkins Street — MANSFIELD, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1325,1339,833,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Turner Rooming House — 11th and Desiard — MONROE, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1325,1444,802,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. H. Burns — 700 Adams — MONROE, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1328,1469,799,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. B. Hortons — Congo St — MONROE, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1327,1492,799,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Lizzie Williams — 719 Federal Ave — MORGAN CITY, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1329,1592,801,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Nannie Green — First St — MORGAN CITY, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1328,1616,800,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ellen White — 302 Third St — MORGAN CITY, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1328,1639,800,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Virginia Williams — 208 Union Street — MORGAN CITY, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1328,1665,833,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Mary Robertson — 116 Hopkins St — NEW IBERIA, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1332,1763,832,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Cecelia Vital — 201 Frenzel St — NEW IBERIA, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1332,1788,832,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Nina E. Cooper — 913 Providence St — NEW IBERIA, LOUISIANA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832716/full/!760,760/0/default.jpg#xywh=1332,1813,834,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json/entry/32"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0012_57832716_right_gemini-2.0-flash_box_annotations.json"
+}

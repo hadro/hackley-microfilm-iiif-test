@@ -1,0 +1,359 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dessert Hotel — COEUR D'ALENE, IDAHO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,327,210,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elite Hotel — COEUR D'ALENE, IDAHO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,354,183,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lakeview Hotel — COEUR D'ALENE, IDAHO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=314,377,236,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cœur d' Alene — COEUR D'ALENE, IDAHO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=314,401,221,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grand Hotel (W) — Main and Fourth Streets — LEWISTON, IDAHO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=316,499,490,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "De France (W) — Second and \"G\" Streets — LEWISTON, IDAHO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,525,457,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nomad Apartments — 231 N. 3rd Street — POCATELLO, IDAHO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,623,512,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. M. E. Parsonage — 625 E. Fremont Street — POCATELLO, IDAHO — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=316,647,486,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tourist Park — E. Fremont Street — POCATELLO, IDAHO — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=318,670,357,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Emily Crawford — 303 N. Pine Street — CENTRALIA, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=318,852,837,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bessie Vernon — 448 N. Poplar Street — CENTRALIA, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=316,870,839,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Minnie Ricks — 131 N. Pine Street — CENTRALIA, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=318,901,837,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alpha Hotel — 3801 S. Parkway — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=318,1018,336,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Franklin Hotel — 3942 Indiana Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=320,1042,383,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lincoln Motel — 2901 State Street — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,1067,358,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pompeii Hotel — 20 E. 31st Street — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,1094,371,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tyson Hotel — 4259 S. Parkway — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,1118,335,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vincennes Hotel — 601 E. 36th Street — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=316,1143,397,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Grand — 5048 S. Parkway — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,1168,336,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trenier Hotel — 409 Oakwood Blv'd — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,1194,385,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Huntington Hotel — 649 E. 37th Street — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=314,1219,411,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brookmont — 3953 S. Michigan Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,1243,389,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 3763 S. Wabash Ave. — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,1268,383,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A — 4559 S. Parkway — CHICAGO, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,1294,342,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stewart's Hotel — E. North St. — DANVILLE, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=315,1427,323,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Wheeler — 106 Hay St — DANVILLE, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=314,1492,846,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Carrie Vance — 1007 Harmon Ave — DANVILLE, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=314,1519,836,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Frances Newberry — 412 E. Van Buren St — DANVILLE, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=314,1543,836,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Royal Hotel — 1900 Missouri Ave. — EAST ST. LOUIS, ILLINOIS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=312,1642,355,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Irene Yancy — 1914 Bond Ave — EAST ST. LOUIS, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=312,1706,837,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "P. B. Reeves — 1803 Bond Ave — EAST ST. LOUIS, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=312,1732,802,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. E. Officer — 2200 Missouri Ave — EAST ST. LOUIS, ILLINOIS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832714/full/!760,760/0/default.jpg#xywh=314,1756,834,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json/entry/31"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0010_57832714_left_gemini-2.0-flash_box_annotations.json"
+}

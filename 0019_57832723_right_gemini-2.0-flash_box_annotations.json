@@ -1,0 +1,326 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Banner House (W) — Main Ave, — BISMARCK, NORTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1274,359,339,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Princess Hotel (W) — 112 5th Street — BISMARCK, NORTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1274,381,395,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bismarck (W) — 217 4th Street — BISMARCK, NORTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1274,408,332,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Blackstone (W) — 116½ 5th St — BISMARCK, NORTH DAKOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1273,456,798,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Loraine (W) — 204½ Main Ave — BISMARCK, NORTH DAKOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1273,481,799,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Herman Litt (W) — 217 7th St — BISMARCK, NORTH DAKOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1272,507,832,28",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. John Martin — 64 N, 3d St — FARGO, NORTH DAKOTA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,634,830,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Dacotah (W) — 3d St.and 1st Ave., N. — GRAND FORKS, NORTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,733,480,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Frederick (W) — 3d St. and 1st Ave., N. — GRAND FORKS, NORTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1274,757,505,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ryan Hotel (W) — 3d St. and 1st Ave., N. — GRAND FORKS, NORTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,780,460,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbia Hotel (W) — 624 De Mers Ave. — GRAND FORKS, NORTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,805,443,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Northern (W) — 425 Kittson Ave. — GRAND FORKS, NORTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,828,355,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "League Hotel (W) — Main St. bet. 6th and 7th Ave, — JAMESTOWN, NORTH DAKOTA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,949,566,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Upperman — 197 Bluff St. — AKRON, OHIO — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,1099,319,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Mecca — 764 Furnace St. — AKRON, OHIO — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,1124,316,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Garden City — Howard and Furnace — AKRON, OHIO — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,1146,387,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Mathews — 77 N. Howard — AKRON, OHIO — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,1172,330,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Blackburn's Apartments — 719 Keystone St., E. — ALLIANCE, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1278,1351,829,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. H. Baber — 649 N. Liberty Ave — ALLIANCE, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1274,1379,800,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Wm. Jackson — 774 N. Webb — ALLIANCE, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1275,1407,798,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Katherine Summerville — 1104 6th St., S. W — CANTON, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1277,1525,797,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton Urban Leagle — 819 Liberty St., S. E. — CANTON, OHIO — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1277,1552,486,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Terry — 1004 Chapel Street, Walnut Hills — CINCINNATI, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1277,1650,508,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gordon Hotel — Chapel and Alms Place, Walnut Hills — CINCINNATI, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1278,1673,577,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Hillerest — 3016 Stanton Street, Walnut Hills — CINCINNATI, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1279,1698,534,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. M. C. A. — 630 W. 9th Street — CINCINNATI, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1279,1725,345,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 702 W. 8th Street — CINCINNATI, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1279,1756,346,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ollie Steele — 3239 Beresford Ave — CINCINNATI, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1279,1805,831,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jas. H. Branch — 801 Beecher Street — CINCINNATI, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832723/full/!760,760/0/default.jpg#xywh=1278,1829,795,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json/entry/28"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0019_57832723_right_gemini-2.0-flash_box_annotations.json"
+}

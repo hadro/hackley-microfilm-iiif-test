@@ -1,0 +1,381 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. S. G. Wilson — 802 S. 7th — BILOXI, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=804,1500,383,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. Alcina — 437 Washington St — CHARLESTON, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=679,337,1672,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Luella Scott — 421 Washington St — CHARLESTON, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=681,363,1667,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Bess — 624 Main St — CHARLESTON, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=681,395,1665,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Pickens — 616 Main St — CHARLESTON, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=681,419,1605,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lucinda Phillips — W. Main St — COLUMBUS, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=681,497,1675,55",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Charlotte Pollard — Rear Court Square — COLUMBUS, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=681,533,1675,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Queen City Hotel — 15th Street and N. 7th Ave. — COLUMBUS, MISSISSIPPI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=686,635,1039,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Luemma Alexander — N. 12th Street — COLUMBUS, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=688,681,1670,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. J. Harrison — 917 N. 14th St — COLUMBUS, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=688,710,1670,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Isaac Roberts — 12th St. and 5th Ave. N — COLUMBUS, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=688,728,1675,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Henry Sommerville — 906 N. 14th St — COLUMBUS, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=688,756,1670,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. John Bryant — 304 Ohea St — GREENVILLE, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=688,842,1605,44",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Birda Bell Clark — 508 Ohea St — GREENVILLE, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=693,881,1668,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. K. D. Fisher — 72 Adams St — GRENADA, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=691,972,1672,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Madora Dodd — 717 Pearl St — GRENADA, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=695,1005,1668,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Florence Williams — Highway 51 and Fairground Road — HATTIESBURG, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=693,1020,1672,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry's Tourist Lodge — Highway 51 and Fairground Road — HATTIESBURG, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=693,1053,1670,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*W. A. Godbolt — 409 E. 7th St — LAUREL, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=700,1144,1603,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Alice Crosby — 413 E. 6th St — LAUREL, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=703,1173,1672,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sallie Vann — 636 Mobile St — LAUREL, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=700,1202,1605,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bass Hotel — S. Pine St. — LAUREL, MISSISSIPPI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=700,1300,520,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kingston Park — N. Section Kingston — LAUREL, MISSISSIPPI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=700,1325,806,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Reed — E. First St — MCCOMB, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=700,1367,1673,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Amy Wilson — 607 S. 7th — MCCOMB, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=703,1396,1667,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sara Lawrence — 902 Meridian — MCCOMB, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=683,1420,1692,55",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Townsend Hotel — 534 Summit St. — MERIDIAN, MISSISSIPPI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=703,1598,721,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dudley Mason — 218 Denwidde St — MERIDIAN, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=700,1648,842,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beales Hotel — 2411 5th St. — MERIDIAN, MISSISSIPPI — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=705,1728,570,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. H. H. Waters — 1201 26th Ave — MERIDIAN, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=705,1778,900,25",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mamie Simmons — 5th St. bet 16th and 17th Aves — MERIDIAN, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=705,1799,1670,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charley Leigh — 5th St. and 16th Ave — MERIDIAN, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=703,1829,1672,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. L. Brown — 522 E. Kingston — MERIDIAN, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=703,1450,1679,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Fannie Garner — 909 Joe Wheeler's Ave — MERIDIAN, MISSISSIPPI — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832719/full/!760,760/0/default.jpg#xywh=681,1475,1713,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json/entry/33"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0015_57832719_left_gemini-2.0-flash_box_annotations.json"
+}

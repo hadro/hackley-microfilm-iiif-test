@@ -1,0 +1,293 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "P. C. Allen — 716 E. 5th St — LEAVENWORTH, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=96,373,1670,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "N. N. Gilbert — 618 E. 5th St — LEAVENWORTH, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=101,407,1600,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Wm. A. Crews — 1st and Republican Sts — CONCORDIA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=101,509,1660,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. B. J. Johnson — 102 E. 2nd Street, cor. Broadway — CONCORDIA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=101,533,1665,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Smith — 5th and Lincoln — CONCORDIA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=99,560,1665,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Glen McVey — 328 East St — CONCORDIA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=99,584,1665,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hattie Givens — 802 Ave. D — DODGE CITY, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=99,677,1670,67",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hall's Hotel — 223½ E. Wall St. — FORT SCOTT, KANSAS — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=101,835,671,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Rachael Howard — 323 S. Lowman St — INDEPENDENCE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=106,883,1672,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Peter Thomason — 114 S. Ransom St — INDEPENDENCE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=108,914,1665,25",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hannah Johnson — 110 S. Lowman St — INDEPENDENCE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=106,935,1667,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Claud Saunders — 202 Pottawottamie St — HUTCHINSON, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=108,1034,1670,41",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Saunders — 1014 Shawnee — HUTCHINSON, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=108,1069,1670,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Chester Lewis — 400 W. Sherman — HIAWATHA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=111,1165,1667,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lucy Monroe — 21 F. West — HIAWATHA, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=113,1197,1665,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Major McBee — 418 S. 3d Street — COFFEYVILLE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=116,1296,1662,41",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs, A. Peak — 613 S. Penn St — COFFEYVILLE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=113,1332,1600,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. M. Madison — 828 W. 12th St — LARNED, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=113,1431,1670,39",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mose Madison — 518 W. 10th St — LARNED, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=116,1457,1667,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. John Caro — E. 6th St. and Johnson Ave — LARNED, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=118,1484,1667,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Blossom Jones — 502 Park St — LARNED, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=120,1516,1596,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. William Shelton — 223 Linn Street — LAWRENCE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=125,1782,1593,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Beatrice Contee — 702 N. 3d Street — LAWRENCE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=123,1806,1660,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. James Hamilton — 720 N. 3d St — LAWRENCE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=123,1835,1597,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sadie Graves — 911 Ave. 8th — LAWRENCE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=87,738,1718,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Agnes Lewis — 203 Maple — LAWRENCE, KANSAS — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832715/full/!760,760/0/default.jpg#xywh=75,714,1698,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json/entry/25"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0011_57832715_right_gemini-2.0-flash_box_annotations.json"
+}

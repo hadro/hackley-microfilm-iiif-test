@@ -1,0 +1,271 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Susie Bryant — 915 Fairfield St — AIKEN, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1301,381,835,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. H. Harrison — Richland Ave — AIKEN, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1301,410,835,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hametic — Bay Street. Near Union Station. — CHARLESTON, SOUTH CAROLINA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1301,510,477,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. H. L. Harleston — 250 Ashley Ave. Modern — CHARLESTON, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1303,575,837,31",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Allen — 9 Morris Street — CHARLESTON, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1303,602,800,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mayes — 47 South Street — CHARLESTON, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1303,626,799,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Alston — 43 South Street — CHARLESTON, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1303,650,800,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Gadsden — 15 Nassau Street — CHARLESTON, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1303,675,802,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hattie Cornwell — 1713 Wayne — COLUMBIA, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1304,798,835,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. P. Wakefield — 1323 Heidt Street — COLUMBIA, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1304,822,835,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. T. H. Pinckney — 1406 Park Street — COLUMBIA, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1304,847,835,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. D. Chappelle — 1301 Pine Street — COLUMBIA, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1305,874,834,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Julia Irvin — 221 N. Church Street — FLORENCE, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1308,969,834,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. Bertha Wright — 1004 E. Cheeve Street — FLORENCE, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1308,995,830,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. S. Bacote — 411 E. Evans — FLORENCE, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1308,1019,832,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. C. Godbod — 227 E. Marion — FLORENCE, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1308,1046,835,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Dessie Atkinson — 811 Duke — GEORGETOWN, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1309,1167,834,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert Anderson — 424 Broad — GEORGETOWN, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1309,1191,834,41",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jas. Becote — 118 Orange — GEORGETOWN, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1308,1223,836,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "T. W. Brown — Merriman and Emanuel Sts — GEORGETOWN, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1310,1251,833,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. H. Wright — 400 S. Liberty Street — SPARTANBURG, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1308,1783,795,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Young — S. Liberty Street — SPARTANBURG, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1305,1807,797,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Susie McElroy — Silver Hill Street — SPARTANBURG, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1302,1831,796,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hattie Coleman — N. Dean Street — SPARTANBURG, SOUTH CAROLINA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832726/full/!760,760/0/default.jpg#xywh=1303,1858,799,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json/entry/23"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0022_57832726_right_gemini-2.0-flash_box_annotations.json"
+}

@@ -1,0 +1,282 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richmond Hotel — 422 Broad St. — JACKSONVILLE, FLORIDA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=344,345,344,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Blue Chip Hotel — 514 Broad St. — JACKSONVILLE, FLORIDA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=344,372,347,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington Hotel — 512½ Broad St. — JACKSONVILLE, FLORIDA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=348,397,374,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. L. D. Jefferson — 2140 Moncrief St., phone 54005 — JACKSONVILLE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=348,464,801,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Bertha Robinson — 128 Orange St — JACKSONVILLE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=344,489,806,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. H. Flipper — 739 W. Church St — JACKSONVILLE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=345,513,804,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Arthur Holmes — 232 W. State Street — JACKSONVILLE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=343,537,840,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alpine Cottage — 714 W. Ashley Street — JACKSONVILLE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=344,564,839,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. H. Simmons — 434 W. Ashley Street — JACKSONVILLE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=343,587,805,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "B. J. Jones — 714 E. Leon St — LAKE CITY, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=343,688,840,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. M. Spears — 426 E. Washington St — LAKE CITY, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=343,716,840,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cowell's Hotel — 827½ N. Florida Ave. — LAKELAND, FLORIDA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=348,839,408,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Dixon — North St. — LAKELAND, FLORIDA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=348,864,254,19",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Aliee Davis — 513 W. First St — LAKELAND, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=346,925,805,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. John Boyd — Missouri Ave — LAKELAND, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=346,949,841,30",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Jessie Gordon — 836½ N. Florida Ave — LAKELAND, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=348,973,806,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. C. McCarter — W. Pear St — LAKELAND, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=346,1002,808,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Daniels — N. Florida Ave — LAKELAND, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=349,1029,802,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*H. G. Tye Apartments — 132 Central Ave — SAINT AUGUSTINE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=349,1138,840,33",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Frank H. Kelley — 83 Bridge Street — SAINT AUGUSTINE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=349,1171,838,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. P. C. Farrior — 129 Central Ave — SAINT AUGUSTINE, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=350,1195,836,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. A. Bailey — 942 Third Ave. S. — ST. PETERSBURG, FLORIDA — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=349,1309,352,27",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. A. Sanders — 1505 Fifth Ave. S — ST. PETERSBURG, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=349,1375,841,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Odessa Wade — 963 Third Ave. S — ST. PETERSBURG, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=350,1402,839,24",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. A. Barrett — 28th St. and Sixth Ave. S — ST. PETERSBURG, FLORIDA — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832713/full/!760,760/0/default.jpg#xywh=353,1426,808,18",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0009_57832713_left_gemini-2.0-flash_box_annotations.json"
+}

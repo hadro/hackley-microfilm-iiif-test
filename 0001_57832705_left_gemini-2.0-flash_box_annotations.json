@@ -1,0 +1,6 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0001_57832705_left_gemini-2.0-flash_box_annotations.json"
+}

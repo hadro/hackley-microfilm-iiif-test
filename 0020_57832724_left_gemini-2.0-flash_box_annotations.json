@@ -1,0 +1,348 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Majestic — 2291 E. 55th St — CLEVELAND, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=391,362,290,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lincoln — E. 40th and Scovill — CLEVELAND, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=391,389,313,26",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ward — 4113 Cedar — CLEVELAND, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=392,416,204,20",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geraldine — 2212 E. 40th — CLEVELAND, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=391,440,263,21",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Irene — 3514 Prospect — CLEVELAND, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=390,464,245,23",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phyllis Wheatley Ass'n — 4300 Cedar — CLEVELAND, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=389,485,515,34",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Hollenden (W) — CLEVELAND, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=387,508,600,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hotel Cleveland (W) — CLEVELAND, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=389,532,589,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Plaza Hotel — Long Street at Hamilton Ave. — COLUMBUS, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=387,650,740,37",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Litehferd Hotel — N. 4th Street — COLUMBUS, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=385,675,336,29",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Y. W. C. A. — 690 E. Long Street — COLUMBUS, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=385,698,363,32",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Daisy Boone — 1105 W. Spring St — LIMA, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=381,813,839,39",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sol Downton — 1107 W. Spring St — LIMA, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=379,837,839,39",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Edward Holt — 406 E. High St — LIMA, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=379,864,839,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Amos Turner — 1215 W. Spring St — LIMA, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=379,887,837,41",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. George Cook — 230 S. Union St — LIMA, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=378,912,838,40",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Porter Wood — 1759 Broadway — LORAIN, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=375,1034,803,41",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Elishe. Worthington — 209 W. 16th Street — LORAIN, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=375,1060,802,39",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. H. P. Jackson — 2383 Apple Ave — LORAIN, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=375,1084,803,39",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. H. Redmond — 201 E. 22nd — LORAIN, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=375,1108,803,41",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Alex Cooley — 114 W. 26th — LORAIN, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=374,1133,803,43",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith's Manor-on-Erie Beach — LORAIN, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=374,1160,801,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Camp Merriman — Stop 110 W. Erie Ave. — LORAIN, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=372,1184,640,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. James — Butler Street — MARIETTA, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=372,1286,262,22",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Nancy Keyes — 318 Harmar Street — MARIETTA, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=369,1332,716,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Elizabeth Jackson — 213 Church Street — MARIETTA, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=369,1357,802,38",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ida Ransom — 78 Hoover St — NEWARK, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=367,1455,802,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edgar Singer — 24 Sherwood Court — NEWARK, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=367,1479,799,36",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. S. Hatton — 22 East St — NEWARK, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=367,1504,798,35",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oberlin Inn — College and Main. — OBERLIN, OHIO — [Hotels / Motels]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=363,1598,716,43",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Mrs. L. J. Debnam — 58 E. College Ave — OBERLIN, OHIO — [Tourist Homes]",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/57832724/full/!760,760/0/default.jpg#xywh=365,1648,837,45",
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json/entry/30"
+    }
+  ],
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0020_57832724_left_gemini-2.0-flash_box_annotations.json"
+}
