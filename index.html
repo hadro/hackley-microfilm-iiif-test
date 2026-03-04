@@ -45,10 +45,12 @@
       var state = decodeContentState(iiifContent);
       if (state && state.target) {
         var target = state.target;
-        // target.id may include a #xywh= fragment; pass it through so Mirador
-        // zooms to the entry region on open (Mirador 3 honors xywh in canvasId).
-        var canvasId =
+        // Strip any #xywh= fragment before passing to Mirador — Mirador does
+        // an exact string match against manifest canvas IDs, which never include
+        // fragments, so including the fragment prevents the canvas from being found.
+        var rawId =
           typeof target === "string" ? target : (target.id || "");
+        var canvasId = rawId.split("#")[0];
         var manifestId =
           (target.partOf && target.partOf[0] && target.partOf[0].id) ||
           DEFAULT_MANIFEST;
