@@ -11,7 +11,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=671,375,458,21",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/0"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/0"
     },
     {
       "type": "Annotation",
@@ -22,7 +22,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=674,401,238,20",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/1"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/1"
     },
     {
       "type": "Annotation",
@@ -33,7 +33,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=667,576,1689,50",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/2"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/2"
     },
     {
       "type": "Annotation",
@@ -44,7 +44,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=667,700,678,23",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/3"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/3"
     },
     {
       "type": "Annotation",
@@ -55,7 +55,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=669,727,671,20",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/4"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/4"
     },
     {
       "type": "Annotation",
@@ -66,7 +66,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=667,752,1109,21",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/5"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/5"
     },
     {
       "type": "Annotation",
@@ -77,7 +77,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=664,848,703,22",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/6"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/6"
     },
     {
       "type": "Annotation",
@@ -88,7 +88,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=662,874,1679,24",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/7"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/7"
     },
     {
       "type": "Annotation",
@@ -99,7 +99,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=664,899,1672,24",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/8"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/8"
     },
     {
       "type": "Annotation",
@@ -110,7 +110,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=659,1056,713,21",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/9"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/9"
     },
     {
       "type": "Annotation",
@@ -121,7 +121,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=654,1120,1685,27",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/10"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/10"
     },
     {
       "type": "Annotation",
@@ -132,7 +132,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=657,1148,1682,20",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/11"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/11"
     },
     {
       "type": "Annotation",
@@ -143,7 +143,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1247,1684,21",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/12"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/12"
     },
     {
       "type": "Annotation",
@@ -154,7 +154,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=654,1267,1682,29",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/13"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/13"
     },
     {
       "type": "Annotation",
@@ -165,7 +165,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=657,1296,1675,19",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/14"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/14"
     },
     {
       "type": "Annotation",
@@ -176,7 +176,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1393,1682,21",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/15"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/15"
     },
     {
       "type": "Annotation",
@@ -187,7 +187,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1419,1677,19",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/16"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/16"
     },
     {
       "type": "Annotation",
@@ -198,7 +198,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1557,1675,23",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/17"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/17"
     },
     {
       "type": "Annotation",
@@ -209,7 +209,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1579,1668,24",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/18"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/18"
     },
     {
       "type": "Annotation",
@@ -220,7 +220,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=650,1608,1670,19",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/19"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/19"
     },
     {
       "type": "Annotation",
@@ -231,7 +231,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=652,1633,1607,19",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/20"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/20"
     },
     {
       "type": "Annotation",
@@ -242,7 +242,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=647,1728,753,24",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/21"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/21"
     },
     {
       "type": "Annotation",
@@ -253,7 +253,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=647,1795,1603,23",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/22"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/22"
     },
     {
       "type": "Annotation",
@@ -264,7 +264,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=647,1822,1605,23",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/23"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/23"
     },
     {
       "type": "Annotation",
@@ -275,7 +275,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=650,1846,1600,19",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/24"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/24"
     },
     {
       "type": "Annotation",
@@ -286,7 +286,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=647,1872,698,20",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/25"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/25"
     },
     {
       "type": "Annotation",
@@ -297,8 +297,8 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832727/full/!760,760/0/default.jpg#xywh=667,602,1710,24",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/26"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json/entry/26"
     }
   ],
-  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0023_57832727_left_gemini-2.0-flash_box_annotations.json"
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0023_57832727_left_gemini-2.0-flash_box_annotations.json"
 }

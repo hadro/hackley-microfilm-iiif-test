@@ -11,7 +11,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832730/full/!760,760/0/default.jpg#xywh=1269,196,880,68",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/0"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/0"
     },
     {
       "type": "Annotation",
@@ -22,7 +22,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832730/full/!760,760/0/default.jpg#xywh=1339,633,736,38",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/1"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/1"
     },
     {
       "type": "Annotation",
@@ -33,7 +33,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832730/full/!760,760/0/default.jpg#xywh=1686,1126,318,48",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/2"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/2"
     },
     {
       "type": "Annotation",
@@ -44,7 +44,7 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832730/full/!760,760/0/default.jpg#xywh=1339,633,736,38",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/3"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/3"
     },
     {
       "type": "Annotation",
@@ -55,8 +55,8 @@
         "format": "text/plain"
       },
       "target": "https://iiif.nypl.org/iiif/3/57832730/full/!760,760/0/default.jpg#xywh=1232,270,693,50",
-      "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/4"
+      "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0026_57832730_right_gemini-2.0-flash_box_annotations.json/entry/4"
     }
   ],
-  "id": "https://hadro.github.io/hackley-microfilm-iiif-test//0026_57832730_right_gemini-2.0-flash_box_annotations.json"
+  "id": "https://hadro.github.io/hackley-microfilm-iiif-test/0026_57832730_right_gemini-2.0-flash_box_annotations.json"
 }
